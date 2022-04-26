@@ -11,10 +11,11 @@ I, Hatem T. Alghuti, declare Texas courts illegitimate, and unconstitutional ins
 ***Warning:*** please be advised foul language is used in these statements, which some may find offensive, including myself.
 
 
-GalvestonTx / GalvestonTx.co is not affiliated in anyway with the government of Galveston County…as it is known.
+>##### GalvestonTx / GalvestonTx.co is not affiliated in anyway with the government of Galveston County…as it is known.
 
-* Galvestontx.co aims to use this page to encourage other’s who have been terrorized by the county to actively replace certain functions of the county and state "governments" with distributed ledger technology.
+Galvestontx.co aims to use this page to encourage other’s who have been terrorized by the county to actively replace certain functions of the county and state "governments" with distributed ledger technology.
 
+---
 ***Upcoming Schedule***
 I accepted the court's invitation to physically occupy the court on May 6, 2022. The purpose is to discuss how they intend to pay for damages. 
 
@@ -29,6 +30,7 @@ The American Rescue Plan Act (ARPA) funds was meant to help Americans struggling
 
 How much tax dollars did the county waste with their fraudulent emergency response mentioned in the attached document? More importantly, what is the radical ideology driving their actions... that is a discussion for another time (hint: name of PAC which provided campaign contributions to the persons responsible for terrorizing tens of thousands each year, see 👇 facts. Just another named "ism"... perhaps the last as it has already resulted in a schism ).
 
+---
 Upon uploading the remaining eight files, I hope to begin development of a DApp to supplant the county and state governments, and invite everyone to join.
 
 
