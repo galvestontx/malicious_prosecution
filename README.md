@@ -1,3 +1,10 @@
+
+***DECLARATION***
+
+I, Hatem T. Alghuti, declare Texas courts illegitimate, and unconstitutional institutions, practicing an unknown law, and provide the following evidence in support of this declaration. I invite the public to attend the trials to take place at Galveston County, to witness first hand the illegal enforcement of the unknown law. I further call for the dissolution of the declared illegal institutions.
+
+
+
 # malicious_prosecution
 
 Warning: please be advised foul language is used in these statements, which some may find offensive, including myself.
@@ -17,8 +24,3 @@ Official Webpage: https://www.galvestoncountytx.gov/our-county/district-attorney
 It continues with “The primary duty of the prosecutor is not to convict, but to see that justice is done”. Let's take a look at Jack Roady's definition of Justice.
 
 Official Webpage: https://www.galvestoncountytx.gov/our-county/district-attorney/district-attorney-s-office
-
-
-***DECLARATION***
-
-I, Hatem T. Alghuti, declare Texas courts illegitimate, and unconstitutional institutions, practicing an unknown law, and provide the following evidence in support of this declaration. I invite the public to attend the trials to take place at Galveston County, to witness first hand the illegal enforcement of the unknown law. I further call for the dissolution of the declared illegal institutions.
