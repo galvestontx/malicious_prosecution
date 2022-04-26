@@ -21,7 +21,7 @@ Police Are Buying Drones and Armored Vehicles With COVID Relief Funds
 
 > "The Kingsport Police Department, a small agency in Tennessee, purchased two “military-grade” drones in early March. And Dixon County City Council in California is considering using ARPA funds on a police drone program" and other high tech gear. 
 
-How much tax dollars did the county waste with their fraudulent emergency response mentioned in the attached document? More importantly, what is the radical ideology driving their actions... that is a discussion for another time (hint: name of PAC which provided campaign contributions to the persons responsible for terrorizing tens of thousands each year 👇. Just another named "ism" perhaps the last as it has already resulted in a schism ).
+How much tax dollars did the county waste with their fraudulent emergency response mentioned in the attached document? More importantly, what is the radical ideology driving their actions... that is a discussion for another time (hint: name of PAC which provided campaign contributions to the persons responsible for terrorizing tens of thousands each year, see 👇 facts. Just another named "ism"... perhaps the last as it has already resulted in a schism ).
 
 Upon uploading the remaining eight files, I hope to begin development of a DApp to supplant the county and state governments, and invite everyone to join.
 
