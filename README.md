@@ -21,6 +21,6 @@ GalvestonTx / GalvestonTx.co is not affiliated in anyway with the government of 
 
 ***Official Webpage:*** https://www.galvestoncountytx.gov/our-county/district-attorney
 
-> It continues with “The primary duty of the prosecutor is not to convict, but to see that justice is done”. Let's take a look at Jack Roady's definition of Justice.
+> The official website further states “The primary duty of the prosecutor is not to convict, but to see that justice is done”. Let's take a look at Jack Roady's definition of Justice.
 
 ***Official Webpage:*** https://www.galvestoncountytx.gov/our-county/district-attorney/district-attorney-s-office
