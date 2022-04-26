@@ -23,7 +23,7 @@ Im reluctant to accept USD for reason's other than the ridiculous inflation Rate
 The American Rescue Plan Act (ARPA) funds was meant to help Americans struggling as a result of the pandemic. Biden allocated $350,000,000,000 for local governments to purchase advanced weapons systems for exclusive use against the American civilian population (even inside the privacy of their homes). Biden encouraged more spending on police tech, despite local activists’ calls to fund life-sustaining food and housing programs. Perhaps "American Rescue" is used in the same manner "progressive" or "democratic" "republican" are used, none of these parties have any relation with the names they carry.
 (Also known as Astroturfing)
 
-Police Are Buying Drones and Armored Vehicles With COVID Relief Funds
+>##### Police Are Buying Drones and Armored Vehicles With COVID Relief Funds
 
 > "The Kingsport Police Department, a small agency in Tennessee, purchased two “military-grade” drones in early March. And Dixon County City Council in California is considering using ARPA funds on a police drone program" and other high tech gear. 
 
