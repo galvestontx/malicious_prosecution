@@ -42,8 +42,9 @@ Upon uploading the remaining eight files, I hope to begin development of a DApp 
 
 > According to Galveston County District Attorney’s official website, Jack Roady “serves alongside a team of 41 assistant district attorneys, 6 peace officers, and 25 support staff, who together prosecute more than 10,000 misdemeanor and felony cases each year in Galveston County”.
 
-***Official Webpage:*** https://www.galvestoncountytx.gov/our-county/district-attorney
+[Official Webpage](https://www.galvestoncountytx.gov/our-county/district-attorney)
 
 > The official website further states “The primary duty of the prosecutor is not to convict, but to see that justice is done”. Let's take a look at Jack Roady's definition of Justice.
 
-***Official Webpage:*** https://www.galvestoncountytx.gov/our-county/district-attorney/district-attorney-s-office
+[Official Webpage](https://www.galvestoncountytx.gov/our-county/district-attorney/district-attorney-s-office)
+
