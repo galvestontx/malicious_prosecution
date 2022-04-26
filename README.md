@@ -3,6 +3,8 @@
 
 I, Hatem T. Alghuti, declare Texas courts illegitimate, and unconstitutional institutions, practicing an unknown law, and provide the following evidence in support of this declaration. I invite the public to attend the trials to take place at Galveston County, to witness first hand the illegal enforcement of the unknown law. I further call for the dissolution of the declared illegal institutions.
 
+If you have been terrorized by Jack Roady or Galveston County, feel free to reach me at Inspector.General@Galvestontx.co
+
 ```
 ***Notice:*** this website did not allow me to upload certain documents, its an issue we will help fix in the near future.
 
