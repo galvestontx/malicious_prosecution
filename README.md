@@ -3,9 +3,13 @@
 
 I, Hatem T. Alghuti, declare Texas courts illegitimate, and unconstitutional institutions, practicing an unknown law, and provide the following evidence in support of this declaration. I invite the public to attend the trials to take place at Galveston County, to witness first hand the illegal enforcement of the unknown law. I further call for the dissolution of the declared illegal institutions.
 
+```
 ***Notice:*** this website did not allow me to upload certain documents, its an issue we will help fix in the near future.
 
+```
+
 ***Warning:*** please be advised foul language is used in these statements, which some may find offensive, including myself.
+
 
 GalvestonTx / GalvestonTx.co is not affiliated in anyway with the government of Galveston County…as it is known.
 
@@ -27,9 +31,11 @@ How much tax dollars did the county waste with their fraudulent emergency respon
 
 Upon uploading the remaining eight files, I hope to begin development of a DApp to supplant the county and state governments, and invite everyone to join.
 
+
 # Malicious_Prosecution
 
 ***Facts:*** Galveston County has a history of criminalizing poverty. The documents on this page is evidence of the latest acts of terror the Galveston County Government has waged against persons that do not have access to the financial system, thus cannot hire defense. Hundreds if not Thousands of pages of documents will be released on this page throughout the year. These acts are inflicted upon tens of thousands of people every year in Galveston County alone. 
+
 
 
 > According to Galveston County District Attorney’s official website, Jack Roady “serves alongside a team of 41 assistant district attorneys, 6 peace officers, and 25 support staff, who together prosecute more than 10,000 misdemeanor and felony cases each year in Galveston County”.
