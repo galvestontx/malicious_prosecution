@@ -15,8 +15,9 @@ GalvestonTx / GalvestonTx.co is not affiliated in anyway with the government of 
 I accepted the court's invitation to physically occupy the court on May 6, 2022. The purpose is to discuss how they intend to pay for damages. 
 
 Im reluctant to accept USD for reason's other than the ridiculous inflation Rate. Rather, it is related to 👇 
- 
-Biden allocated $350,000,000,000 of the American Rescue Plan Act (ARPA) funds, meant to help Americans struggling as a result of the pandemic to be used instead for purchasing advanced weapons to be used exclusively against Americans (inside of their homes). Biden encouraged more spending on police tech, despite local activists’ calls to fund life-sustaining food and housing programs.
+
+The American Rescue Plan Act (ARPA) funds was meant to help Americans struggling as a result of the pandemic. Biden allocated $350,000,000,000 for purchasing advanced weapons systems to be used exclusive against the American civilian population (even inside the privacy of their homes). Biden encouraged more spending on police tech, despite local activists’ calls to fund life-sustaining food and housing programs. Perhaps "American Rescue" is used in the same manner "progressive" or "democratic" "republican" are used, none of these parties have any relation with the names they carry.
+(Also known as Astroturfing)
 
 Police Are Buying Drones and Armored Vehicles With COVID Relief Funds
 
