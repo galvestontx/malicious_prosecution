@@ -15,7 +15,7 @@ I accepted the court's invitation to physically occupy the court on May 6, 2022.
 
 Im reluctant to accept USD for reason's other than the ridiculous inflation Rate. Rather, it is related to 👇 
  
-Biden allocated $350,000,000,000 of the American Rescue Plan Act (ARPA) funds, meant to help Americans struggling as a result of the pandemic, to be used instead as an "aid package" for encouraged more spending on police tech, despite local activists’ calls to fund life-sustaining food and housing programs.
+Biden allocated $350,000,000,000 of the American Rescue Plan Act (ARPA) funds, meant to help Americans struggling as a result of the pandemic to be used instead for purchasing advanced weapons to be used exclusively against Americans (inside of their homes). Biden encouraged more spending on police tech, despite local activists’ calls to fund life-sustaining food and housing programs.
 
 Police Are Buying Drones and Armored Vehicles With COVID Relief Funds
 
