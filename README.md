@@ -3,8 +3,6 @@
 
 I, Hatem T. Alghuti, declare Texas courts illegitimate, and unconstitutional institutions, practicing an unknown law, and provide the following evidence in support of this declaration. I invite the public to attend the trials to take place at Galveston County, to witness first hand the illegal enforcement of the unknown law. I further call for the dissolution of the declared illegal institutions.
 
-If you have been terrorized by Jack Roady or Galveston County, feel free to reach me at Inspector.General@Galvestontx.co
-
 ```
 ***Notice:*** this website did not allow me to upload certain documents, its an issue we will help fix in the near future.
 
@@ -13,7 +11,9 @@ If you have been terrorized by Jack Roady or Galveston County, feel free to reac
 ***Warning:*** please be advised foul language is used in these statements, which some may find offensive, including myself.
 
 
->##### GalvestonTx / GalvestonTx.co is not affiliated in anyway with the government of Galveston County…as it is known.
+GalvestonTx Page and GalvestonTx.co website is ***NOT*** affiliated in anyway with the government of Galveston County…as it is known.
+
+##### If you have been terrorized by Jack Roady or Galveston County and wish to share, feel free to reach me at Inspector.General@Galvestontx.co
 
 Galvestontx.co aims to use this page to encourage other’s who have been terrorized by the county to actively replace certain functions of the county and state "governments" with distributed ledger technology.
 
