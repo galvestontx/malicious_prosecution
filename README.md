@@ -16,7 +16,7 @@ I accepted the court's invitation to physically occupy the court on May 6, 2022.
 
 Im reluctant to accept USD for reason's other than the ridiculous inflation Rate. Rather, it is related to 👇 
 
-The American Rescue Plan Act (ARPA) funds was meant to help Americans struggling as a result of the pandemic. Biden allocated $350,000,000,000 for purchasing advanced weapons systems to be used exclusive against the American civilian population (even inside the privacy of their homes). Biden encouraged more spending on police tech, despite local activists’ calls to fund life-sustaining food and housing programs. Perhaps "American Rescue" is used in the same manner "progressive" or "democratic" "republican" are used, none of these parties have any relation with the names they carry.
+The American Rescue Plan Act (ARPA) funds was meant to help Americans struggling as a result of the pandemic. Biden allocated $350,000,000,000 for local governments to purchase advanced weapons systems for exclusive use against the American civilian population (even inside the privacy of their homes). Biden encouraged more spending on police tech, despite local activists’ calls to fund life-sustaining food and housing programs. Perhaps "American Rescue" is used in the same manner "progressive" or "democratic" "republican" are used, none of these parties have any relation with the names they carry.
 (Also known as Astroturfing)
 
 Police Are Buying Drones and Armored Vehicles With COVID Relief Funds
