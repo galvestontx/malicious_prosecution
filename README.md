@@ -27,7 +27,7 @@ Upon uploading the remaining eight files, I hope to begin development of a DApp 
 
 # Malicious_Prosecution
 
-***Facts:*** Galveston County has a history of criminalizing poverty. The documents on this page is evidence of the latest acts of terror the Galveston County Government has waged against persons that do not have access to the financial system, thus cannot hire defense. Hundreds if not Thousands of pages of documents will be released on this page later this year. These acts are inflicted upon tens of thousands of people every year in Galveston County alone. 
+***Facts:*** Galveston County has a history of criminalizing poverty. The documents on this page is evidence of the latest acts of terror the Galveston County Government has waged against persons that do not have access to the financial system, thus cannot hire defense. Hundreds if not Thousands of pages of documents will be released on this page throughout the year. These acts are inflicted upon tens of thousands of people every year in Galveston County alone. 
 
 
 > According to Galveston County District Attorney’s official website, Jack Roady “serves alongside a team of 41 assistant district attorneys, 6 peace officers, and 25 support staff, who together prosecute more than 10,000 misdemeanor and felony cases each year in Galveston County”.
