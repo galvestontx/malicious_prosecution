@@ -26,7 +26,7 @@ Hundreds if not Thousands of pages and documents will be released on this page t
 
 
 ---
-After the 8 remaining files are uploaded, Galvestontx.co will begin development of a DApp to supplant the county and state governments within two years, and invite everyone to join.
+[1 of 9](https://github.com/galvestontx/malicious_prosecution/blob/f2f5154e7de2cd17b51dbdb18cacdb12124f5064/Galvestontx.co_1of9.pdf) has been uploaded, after the eight remaining files are uploaded, ***Galvestontx.co*** will begin development of a DApp to supplant the county and state governments within two years, and invite everyone to join.
 
 
 
