@@ -70,3 +70,13 @@ $ rustup install VERSION
 According to a recent Executive Order, "For too long, domestic violence was considered a “family issue” and was left for families to address in private."
 After uploading document 2 of 9...which is more outrageous than the first, an online petition will demand for the Harris administration to use this case as the model for this [Executive Order](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/09/30/a-proclamation-on-national-domestic-violence-awareness-and-prevention-month-2021/), "many of us were told that it would cause the disintegration of the family. That was the phrase used. It would cause the disintegration of the family". 🤔 
 
+
+
+
+
+# Disclaimer 
+A significant portion of this project will be to extend certain legal immunity to person (in any jurisdiction) working on a project which uses (Criterion) protocol. 
+Because we are still in the early stages of this development, The reader should be aware that U.S. export control and sanctions laws prohibit U.S. persons (and other persons that are subject to such laws) from transacting with persons in certain countries and territories or that are on the SDN list. As a project-based primarily on open-source software, it is possible that such sanctioned persons may nevertheless bypass prohibitions, obtain the code comprising the blockchain protocol (or other project code or applications) and deploy, integrate, or otherwise use it. Accordingly, there is a risk to individuals that other persons using the blockchain protocol may be sanctioned persons and that transactions with such persons would be a violation of U.S. export controls and sanctions law. 
+
+
+
