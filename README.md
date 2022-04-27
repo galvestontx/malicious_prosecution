@@ -14,7 +14,8 @@ I, Hatem T. Alghuti, declare Texas courts illegitimate, and unconstitutional ins
 This ***GalvestonTx Page*** and ***GalvestonTx.co*** website is ***NOT*** affiliated in anyway with the government of Galveston County…as it is known.
 
 According to a recent Executive Order, "For too long, domestic violence was considered a “family issue” and was left for families to address in private."
-After uploading document 2 of 9...which is more outrageous than the first, a online petition will request for the harris administration to use this case as the model for this [Executive Order](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/09/30/a-proclamation-on-national-domestic-violence-awareness-and-prevention-month-2021/). 
+After uploading document 2 of 9...which is more outrageous than the first, a online petition will request for the harris administration to use this case as the model for this [Executive Order](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/09/30/a-proclamation-on-national-domestic-violence-awareness-and-prevention-month-2021/), "many of us were told that it would cause the disintegration of the family. That was the phrase used. It would cause the disintegration of the family". 🤔 
+
 
 
 
