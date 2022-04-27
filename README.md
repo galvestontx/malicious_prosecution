@@ -4,7 +4,7 @@
 I, Hatem T. Alghuti, declare Texas courts illegitimate, and unconstitutional institutions, practicing an unknown law, and provide the [following](https://github.com/galvestontx/malicious_prosecution/blob/f2f5154e7de2cd17b51dbdb18cacdb12124f5064/Galvestontx.co_1of9.pdf) evidence in support of this declaration. I invite the public to attend the trials to take place at Galveston County, to witness first hand the illegal enforcement of the unknown law. I further call for the dissolution of the declared illegal institutions.
 
 ```
-***Notice:*** 
+***Notice:*** Hundreds if not Thousands of pages and documents will be released on this page throughout the year. Social media link will be provided for those wishing to connect.
 ```
 
 ***Warning:*** please be advised foul language is used in these statements, which some may find offensive, including myself.
@@ -24,7 +24,7 @@ After the 8 remaining files are uploaded, Galvestontx.co will begin development 
 
 # Malicious Prosecution
 
-***Facts:*** Galveston County has a history of criminalizing poverty. The documents on this page is evidence of the latest acts of terror the Galveston County Government has waged against persons that do not have access to the financial system, thus cannot hire defense. Hundreds if not Thousands of pages of documents will be released on this page throughout the year. These acts are inflicted upon tens of thousands of people every year in Galveston County alone. 
+***Facts:*** Galveston County has a history of criminalizing poverty. The documents on this page is evidence of the latest acts of terror the Galveston County Government has waged against persons that do not have access to the financial system, thus cannot hire defense.  These acts are inflicted upon tens of thousands of people every year in Galveston County alone. 
 
 
 
