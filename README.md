@@ -13,7 +13,7 @@ I, Hatem T. Alghuti, declare Texas courts illegitimate, and unconstitutional ins
 
 This ***GalvestonTx Page*** and ***GalvestonTx.co*** website is ***NOT*** affiliated in anyway with the government of Galveston County…as it is known.
 
-### Galvestontx.co aims to use this page to encourage other’s who have been terrorized by the county to actively replace certain functions of the county and state "governments" with distributed ledger technology.
+***Galvestontx.co aims to use this page to encourage other’s who have been terrorized by the county to actively replace certain functions of the county and state "governments" with distributed ledger technology.***
 
 ---
 ***Upcoming Schedule***
