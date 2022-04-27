@@ -17,11 +17,6 @@ This ***GalvestonTx Page*** and ***GalvestonTx.co*** website is ***NOT*** affili
 ---
 ***Upcoming Schedule***
 
->##### Police Are Buying Drones and Armored Vehicles With COVID Relief Funds
-
-> "The Kingsport Police Department, a small agency in Tennessee, purchased two “military-grade” drones in early March. And Dixon County City Council in California is considering using ARPA funds on a police drone program" and other high tech gear. 
-
-How much tax dollars did the county waste with their fraudulent emergency response mentioned in [attached document](https://github.com/galvestontx/malicious_prosecution/blob/f2f5154e7de2cd17b51dbdb18cacdb12124f5064/Galvestontx.co_1of9.pdf)? More importantly, what is the radical ideology driving their actions... that is a discussion for another time (hint: name of PAC which provided campaign contributions to the persons responsible for terrorizing tens of thousands each year, see 👇 facts. Just another named "ism"... perhaps the last as it has already resulted in a schism ).
 
 ---
 After the 8 remaining files are uploaded, Galvestontx.co will begin development of a DApp to supplant the county and state governments, and invite everyone to join.
