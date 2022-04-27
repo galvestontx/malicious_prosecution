@@ -1,7 +1,7 @@
 
 ***DECLARATION***
 
-I, Hatem T. Alghuti, declare Texas courts illegitimate, and unconstitutional institutions, practicing an unknown law, and provide the [following](https://github.com/galvestontx/malicious_prosecution/blob/f2f5154e7de2cd17b51dbdb18cacdb12124f5064/Galvestontx.co_1of9.pdf) evidence in support of this declaration. I invite the public to attend the trials to take place at Galveston County, to witness first hand the illegal enforcement of the unknown law. I further call for the dissolution of the declared illegal institutions.
+I, Hatem T. Alghuti, declare Texas courts illegitimate, and unconstitutional institutions, practicing an unknown law, and provide the [following](https://drive.google.com/file/d/19K3MybXGEkIT83lHn3w9ju6SF_QVvx1J/view?usp=drivesdk) evidence in support of this declaration. I invite the public to attend the trials to take place at Galveston County, to witness first hand the illegal enforcement of the unknown law. I further call for the dissolution of the declared illegal institutions.
 
 ```
 Hatem T. Alghuti (April 26, 2022) 
@@ -11,7 +11,7 @@ Hatem T. Alghuti (April 26, 2022)
 
 
 
-***Warning:*** please be advised foul language is used in these [statements](https://github.com/galvestontx/malicious_prosecution/blob/f2f5154e7de2cd17b51dbdb18cacdb12124f5064/Galvestontx.co_1of9.pdf), which some may find offensive.
+***Warning:*** please be advised foul language is used in these [statements](https://drive.google.com/file/d/19K3MybXGEkIT83lHn3w9ju6SF_QVvx1J/view?usp=drivesdk), which some may find offensive.
 
 This ***GalvestonTx Page*** and ***GalvestonTx.co*** website is ***NOT*** affiliated in anyway with the government of Galveston County…as it is known. 
 
@@ -26,7 +26,7 @@ Hundreds if not Thousands of pages and documents will be released on this page t
 
 
 ---
-[1 of 9](https://github.com/galvestontx/malicious_prosecution/blob/f2f5154e7de2cd17b51dbdb18cacdb12124f5064/Galvestontx.co_1of9.pdf) has been uploaded, after the eight remaining files are uploaded, ***Galvestontx.co*** will begin development of a DApp to supplant the county and state governments within two years, and invite everyone to join.
+[1 of 9](https://drive.google.com/file/d/19K3MybXGEkIT83lHn3w9ju6SF_QVvx1J/view?usp=drivesdk) has been uploaded, after the eight remaining files are uploaded, ***Galvestontx.co*** will begin development of a DApp to supplant the county and state governments within two years, and invite everyone to join.
 
 
 
