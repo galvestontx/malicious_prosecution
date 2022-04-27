@@ -20,6 +20,23 @@ This ***GalvestonTx Page*** and ***GalvestonTx.co*** website is ***NOT*** affili
 If you are a developer or have other skills you wish to contribute to further this noble effort please email inspector.general@galvestontx.co .
 Hundreds if not Thousands of pages and documents will be released on this page throughout the year. Social media link will be provided for those wishing to connect.
 
+#Building
+
+## 1. Install rustc, cargo and rustfmt.
+```
+$ curl https://sh.rustup.rs -sSf | sh
+$ source $HOME/.cargo/env
+$ rustup component add rustfmt
+```
+
+When building the master branch, please make sure you are using the latest stable rust version by running:
+```
+$ rustup update
+```
+When building a specific release branch, you should check the rust version in ci/rust-version.sh and if necessary, install that version by running:
+```
+$ rustup install VERSION
+```
 
 ---
 ***Upcoming Schedule***
