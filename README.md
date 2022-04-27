@@ -20,6 +20,16 @@ This ***GalvestonTx Page*** and ***GalvestonTx.co*** website is ***NOT*** affili
 If you are a developer or have other skills you wish to contribute to further this noble effort please email inspector.general@galvestontx.co .
 Hundreds if not Thousands of pages and documents will be released on this page throughout the year. Social media link will be provided for those wishing to connect.
 
+
+---
+***Upcoming Schedule***
+
+
+---
+After the 8 remaining files are uploaded, Galvestontx.co will begin development of a DApp to supplant the county and state governments within two years, and invite everyone to join.
+
+
+
 # Building
 
 ## 1. Install rustc, cargo and rustfmt.
@@ -39,12 +49,6 @@ $ rustup install VERSION
 ```
 
 ---
-***Upcoming Schedule***
-
-
----
-After the 8 remaining files are uploaded, Galvestontx.co will begin development of a DApp to supplant the county and state governments, and invite everyone to join.
-
 
 ### Malicious Prosecution
 
