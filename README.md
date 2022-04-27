@@ -4,8 +4,7 @@
 I, Hatem T. Alghuti, declare Texas courts illegitimate, and unconstitutional institutions, practicing an unknown law, and provide the [following](https://github.com/galvestontx/malicious_prosecution/blob/f2f5154e7de2cd17b51dbdb18cacdb12124f5064/Galvestontx.co_1of9.pdf) evidence in support of this declaration. I invite the public to attend the trials to take place at Galveston County, to witness first hand the illegal enforcement of the unknown law. I further call for the dissolution of the declared illegal institutions.
 
 ```
-***Notice:*** this website did not allow me to upload certain documents, its an issue we will help fix in the near future.
-
+***Notice:*** 
 ```
 
 ***Warning:*** please be advised foul language is used in these statements, which some may find offensive, including myself.
@@ -17,11 +16,6 @@ This ***GalvestonTx Page*** and ***GalvestonTx.co*** website is ***NOT*** affili
 
 ---
 ***Upcoming Schedule***
-I accepted the court's invitation to physically occupy the court on May 6, 2022. The purpose is to discuss how they intend to pay for damages. 
-
-Im reluctant to accept USD for reason's other than the ridiculous inflation Rate. Rather, it is related to 👇 
-
-The American Rescue Plan Act (ARPA) funds were meant to help Americans struggling as a result of the pandemic. Biden allocated $350,000,000,000 for local governments to purchase advanced weapons systems for exclusive use against the American civilian population (even inside the privacy of their homes). Biden encouraged more spending on police tech, despite local activists’ calls to fund life-sustaining food and housing programs. Perhaps "American Rescue" is used in the same manner "progressive" or "democratic" "republican" are used, none of these parties have any relation with the names they carry-- ***known*** as Astroturfing.
 
 >##### Police Are Buying Drones and Armored Vehicles With COVID Relief Funds
 
@@ -30,7 +24,7 @@ The American Rescue Plan Act (ARPA) funds were meant to help Americans strugglin
 How much tax dollars did the county waste with their fraudulent emergency response mentioned in [attached document](https://github.com/galvestontx/malicious_prosecution/blob/f2f5154e7de2cd17b51dbdb18cacdb12124f5064/Galvestontx.co_1of9.pdf)? More importantly, what is the radical ideology driving their actions... that is a discussion for another time (hint: name of PAC which provided campaign contributions to the persons responsible for terrorizing tens of thousands each year, see 👇 facts. Just another named "ism"... perhaps the last as it has already resulted in a schism ).
 
 ---
-Upon uploading the remaining eight files, I hope to begin development of a DApp to supplant the county and state governments, and invite everyone to join.
+After the 8 remaining files are uploaded, Galvestontx.co will begin development of a DApp to supplant the county and state governments, and invite everyone to join.
 
 
 # Malicious Prosecution
@@ -51,6 +45,5 @@ Upon uploading the remaining eight files, I hope to begin development of a DApp 
 # Upcoming Online Petitions 
 
 According to a recent Executive Order, "For too long, domestic violence was considered a “family issue” and was left for families to address in private."
-After uploading document 2 of 9...which is more outrageous than the first, an online petition will demand for the Harris administration to use this case as the model for 👉 [Executive Order](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/09/30/a-proclamation-on-national-domestic-violence-awareness-and-prevention-month-2021/), "many of us were told that it would cause the disintegration of the family. That was the phrase used. It would cause the disintegration of the family". 🤔 
-
+After uploading document 2 of 9...which is more outrageous than the first, an online petition will demand for the Harris administration to use this case as the model for this [Executive Order](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/09/30/a-proclamation-on-national-domestic-violence-awareness-and-prevention-month-2021/), "many of us were told that it would cause the disintegration of the family. That was the phrase used. It would cause the disintegration of the family". 🤔 
 
