@@ -17,7 +17,7 @@ This ***GalvestonTx Page*** and ***GalvestonTx.co*** website is ***NOT*** affili
 
 ***Galvestontx.co aims to use this page to encourage other’s who have been terrorized by the county to actively replace certain functions of the county and state "governments" with distributed ledger technology.***
 
-If you are a developer or have other skills you wish to contribute to further this noble effort please email inspector.general@galvestontx.co
+If you are a developer or have other skills you wish to contribute to further this noble effort please email inspector.general@galvestontx.co .
 Hundreds if not Thousands of pages and documents will be released on this page throughout the year. Social media link will be provided for those wishing to connect.
 
 
@@ -29,7 +29,7 @@ Hundreds if not Thousands of pages and documents will be released on this page t
 After the 8 remaining files are uploaded, Galvestontx.co will begin development of a DApp to supplant the county and state governments, and invite everyone to join.
 
 
-# Malicious Prosecution
+### Malicious Prosecution
 
 ***Facts:*** Galveston County has a history of criminalizing poverty. The documents on this page is evidence of the latest acts of terror the Galveston County Government has waged against persons that do not have access to the financial system, thus cannot hire defense.  These acts are inflicted upon tens of thousands of people every year in Galveston County alone. 
 
@@ -44,7 +44,7 @@ After the 8 remaining files are uploaded, Galvestontx.co will begin development 
 [Official Webpage](https://www.galvestoncountytx.gov/our-county/district-attorney/district-attorney-s-office)
 
 
-# Upcoming Online Petitions 
+### Upcoming Online Petitions 
 
 According to a recent Executive Order, "For too long, domestic violence was considered a “family issue” and was left for families to address in private."
 After uploading document 2 of 9...which is more outrageous than the first, an online petition will demand for the Harris administration to use this case as the model for this [Executive Order](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/09/30/a-proclamation-on-national-domestic-violence-awareness-and-prevention-month-2021/), "many of us were told that it would cause the disintegration of the family. That was the phrase used. It would cause the disintegration of the family". 🤔 
