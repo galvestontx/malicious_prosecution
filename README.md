@@ -4,15 +4,22 @@
 I, Hatem T. Alghuti, declare Texas courts illegitimate, and unconstitutional institutions, practicing an unknown law, and provide the [following](https://github.com/galvestontx/malicious_prosecution/blob/f2f5154e7de2cd17b51dbdb18cacdb12124f5064/Galvestontx.co_1of9.pdf) evidence in support of this declaration. I invite the public to attend the trials to take place at Galveston County, to witness first hand the illegal enforcement of the unknown law. I further call for the dissolution of the declared illegal institutions.
 
 ```
+Hatem T. Alghuti 
+```
+
+
+```
 ***Notice:*** Hundreds if not Thousands of pages and documents will be released on this page throughout the year. Social media link will be provided for those wishing to connect.
 ```
 
 ***Warning:*** please be advised foul language is used in these statements, which some may find offensive, including myself.
 
 
-This ***GalvestonTx Page*** and ***GalvestonTx.co*** website is ***NOT*** affiliated in anyway with the government of Galveston County…as it is known.
+This ***GalvestonTx Page*** and ***GalvestonTx.co*** website is ***NOT*** affiliated in anyway with the government of Galveston County…as it is known. 
 
 ***Galvestontx.co aims to use this page to encourage other’s who have been terrorized by the county to actively replace certain functions of the county and state "governments" with distributed ledger technology.***
+
+If you are a developer of have other skills you wish to contribute to this effort please email inspector.general@galvestontx.co
 
 ---
 ***Upcoming Schedule***
