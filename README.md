@@ -20,7 +20,7 @@ This ***GalvestonTx Page*** and ***GalvestonTx.co*** website is ***NOT*** affili
 If you are a developer or have other skills you wish to contribute to further this noble effort please email inspector.general@galvestontx.co .
 Hundreds if not Thousands of pages and documents will be released on this page throughout the year. Social media link will be provided for those wishing to connect.
 
-#Building
+# Building
 
 ## 1. Install rustc, cargo and rustfmt.
 ```
