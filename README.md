@@ -30,9 +30,9 @@ Hundreds if not Thousands of pages and documents will be released on this page t
 
 
 
-# Building
+## Building
 
-## 1. Install rustc, cargo and rustfmt.
+### 1. Install rustc, cargo and rustfmt.
 ```
 $ curl https://sh.rustup.rs -sSf | sh
 $ source $HOME/.cargo/env
