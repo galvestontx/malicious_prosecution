@@ -19,7 +19,7 @@ This ***GalvestonTx Page*** and ***GalvestonTx.co*** website is ***NOT*** affili
 
 ***Galvestontx.co aims to use this page to encourage other’s who have been terrorized by the county to actively replace certain functions of the county and state "governments" with distributed ledger technology.***
 
-If you are a developer of have other skills you wish to contribute to this effort please email inspector.general@galvestontx.co
+If you are a developer or have other skills you wish to contribute to further this noble effort please email inspector.general@galvestontx.co
 
 ---
 ***Upcoming Schedule***
