@@ -67,8 +67,9 @@ $ rustup install VERSION
 
 ### Upcoming Online Petitions 
 
-According to a recent Executive Order, "For too long, domestic violence was considered a “family issue” and was left for families to address in private."
-After uploading document 2 of 9...which is more outrageous than the first, an online petition will demand for the Harris administration to use this case as the model for this [Executive Order](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/09/30/a-proclamation-on-national-domestic-violence-awareness-and-prevention-month-2021/), "many of us were told that it would cause the disintegration of the family. That was the phrase used. It would cause the disintegration of the family". 🤔 
+
+According to a recent Executive Order, <i>"For too long, domestic violence was considered a “family issue” and was left for families to address in private."</i>
+After uploading document 2 of 9...which is more outrageous than the first, an online petition will demand for the Harris administration use this case as the model for this [Executive Order](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/09/30/a-proclamation-on-national-domestic-violence-awareness-and-prevention-month-2021/), <i>"many of us were told that it would cause the disintegration of the family. That was the phrase used. It would cause the disintegration of the family"</i>. 🤔 
 
 
 
