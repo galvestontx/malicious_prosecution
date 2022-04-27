@@ -11,7 +11,7 @@ Hatem T. Alghuti (April 26, 2022)
 
 
 
-***Warning:*** please be advised foul language is used in these statements, which some may find offensive, including myself.
+***Warning:*** please be advised foul language is used in these [statements](https://github.com/galvestontx/malicious_prosecution/blob/f2f5154e7de2cd17b51dbdb18cacdb12124f5064/Galvestontx.co_1of9.pdf), which some may find offensive, including myself.
 
 This ***GalvestonTx Page*** and ***GalvestonTx.co*** website is ***NOT*** affiliated in anyway with the government of Galveston County…as it is known. 
 
