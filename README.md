@@ -66,6 +66,8 @@ $ rustup install VERSION
 ### Upcoming Online Petitions 
 
 
+Petition for the immediate removal of Kerri Foley and all judges involved in this case from the bench, and to bar named judges from any public office or position of trust. The procedure used in this case, as well as actions of the attorney’s, judges, other officers involved, has discredited the judiciary or the administration of justice.
+
 According to a recent Executive Order, <i>"For too long, domestic violence was considered a “family issue” and was left for families to address in private."</i>
 After uploading document 2 of 9...which is more outrageous than the first, an online petition will demand for the Harris administration use this case so others know the true intent of this [Executive Order](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/09/30/a-proclamation-on-national-domestic-violence-awareness-and-prevention-month-2021/), <strong><i>"many of us were told that it would cause the disintegration of the family. That was the phrase used. It would cause the disintegration of the family"</i></strong>.. 🤔 sounds about right.
 
