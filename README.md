@@ -13,9 +13,9 @@ Hatem T. Alghuti (April 26, 2022)
 
 ***Warning:*** please be advised foul language is used in these [statements](https://drive.google.com/file/d/1e-7dWshR_VGjhiRWMwYHnGV6fxh7-knF/view?usp=drivesdk), which some may find offensive.
 
-This ***GalvestonTx Page*** and ***GalvestonTx.co*** website is ***NOT*** affiliated in anyway with the government of Galveston County…as it is known. 
+I decided to publish everything to prevent the same from happening to other's. So long as no one knows what is taking place at Galveston County and elsewhere, and the public rely solely on the falsified information published in the court records, nothing will prevent these criminals from doing the same to others. 
 
-***Galvestontx.co aims to use this page to encourage other’s who have been terrorized by the county to actively replace certain functions of the county and state "governments" with distributed ledger technology.*** Any content produced by GalvestonTx.co or developer resources that GalvestonTx.co provides are for educational and inspirational purposes only.
+This ***GalvestonTx Page*** and ***GalvestonTx.co*** website is ***NOT*** affiliated in anyway with the government of Galveston County…as it is known. ***Galvestontx.co aims to use this page to encourage other’s who have been terrorized by the county to actively replace certain functions of the county and state "governments" with distributed ledger technology.*** Any content produced by GalvestonTx.co or developer resources that GalvestonTx.co provides are for educational and inspirational purposes only.
 
 If you are a developer or have other skills you wish to contribute to further this noble effort please email inspector.general@galvestontx.co .
 Hundreds if not Thousands of pages and documents will be released on this page throughout the year. Social media link will be provided for those wishing to connect.
