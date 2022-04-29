@@ -64,7 +64,7 @@ $ rustup install VERSION
 
 
 ### Upcoming Online Petitions 
-
+* please note no action stated in below petitions will replace the irrevocable demands and terms set by Alghuti (will be published in file 9 of 9).
 
 Petition for the immediate removal of Kerri Foley and all judges involved in this case from the bench, and to bar named judges from any public office or position of trust. The procedure used in this case, as well as actions of the attorney’s, judges, other officers involved, has discredited the judiciary or the administration of justice.
 
