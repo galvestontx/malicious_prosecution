@@ -63,8 +63,10 @@ $ rustup install VERSION
 [Official Webpage](https://www.galvestoncountytx.gov/our-county/district-attorney/district-attorney-s-office)
 
 
-### Upcoming Online Petitions 
+### Upcoming Online Petitions & Event Log
 ***Note:*** no action stated in below petitions will replace the irrevocable demands and terms set by Alghuti (will be published in file 9 of 9). If it is found that the conduct of attorney’s, judges, officers, and other officials (elected by interests) involved in this case are considered "legal", it is evidence of an illegitimate legal system, and it is a duty to abolish it entirely.  
+
+* Recently Twitter blocked me from the account established for this page, before even posting a single tweet. If the FTC fails to enforce antitrust policy within 90 days, a call for protest and deman for the immediate seize all the company assets will be prepared. 
 
 * Petition for the immediate removal of Kerri Foley and all judges involved in this case from the bench, and to bar named judges from any public office or position of trust. The procedure used in this case, as well as actions taken by attorney’s, judges, other officers involved has discredited the judiciary or the administration of justice. This [Commission](http://www.scjc.texas.gov/faq/) has been aware of these practices, and has done nothing. 
 
