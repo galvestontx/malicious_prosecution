@@ -9,7 +9,7 @@ Hatem T. Alghuti (April 26, 2022)
 ![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)
 
 
-
+Note: the false testimony of named persons in the above document is of little concern (as it is expected), my primary concern is the government response. 
 
 ***Warning:*** please be advised foul language is used in these [statements](https://drive.google.com/file/d/1e-7dWshR_VGjhiRWMwYHnGV6fxh7-knF/view?usp=drivesdk), which some may find offensive. I decided to make information public to prevent the same from happening to other's. So long as no one knows what is taking place at Galveston County and elsewhere, and the public rely solely on the falsified information published in court records, nothing will prevent these criminals from engaging in the same harmful activity.  
 
