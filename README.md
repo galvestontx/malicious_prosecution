@@ -69,7 +69,7 @@ $ rustup install VERSION
 * Petition for the immediate removal of Kerri Foley and all judges involved in this case from the bench, and to bar named judges from any public office or position of trust. The procedure used in this case, as well as actions of the attorney’s, judges, other officers involved, has discredited the judiciary or the administration of justice. This [Commission](http://www.scjc.texas.gov/faq/) has been aware of the practices mentioned in this case, and has done nothing. 
 
 * Demand the Harris Administration identity who the victim is in this case, in reference to this [Executive Order](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/09/30/a-proclamation-on-national-domestic-violence-awareness-and-prevention-month-2021/), Which states - <i>"For too long, domestic violence was considered a “family issue” and was left for families to address in private."</i> <strong><i>"many of us were told that it would cause the disintegration of the family. That was the phrase used. It would cause the disintegration of the family"</i></strong>.. 🤔 sounds about right.
-
+***Note*** to achieve the 100,000 signature required to get this to the Whitehouse, a video will be produced for conveying to the general public. 
 
 ### Disclaimer 
 A significant portion of this project aims to extend certain legal immunity to persons (in any jurisdiction) working on a project which uses (Criterion) protocol. 
