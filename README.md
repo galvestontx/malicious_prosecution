@@ -14,6 +14,8 @@ Hatem T. Alghuti (April 26, 2022)
 Note: the false testimony of named persons in the above [document](https://drive.google.com/file/d/1e-7dWshR_VGjhiRWMwYHnGV6fxh7-knF/view?usp=drivesdk) is of little concern (as it is expected), my primary concern is the government response. 
 I do not accept anyone punishing my former wife for false testimony. This case is testimony to why the Quran requires two men as witness, and if you cannot find two men, then one man and two women. In this case, you have one woman submitting two separate statements that contradict one another, and two women who submitted one statement, neither of which align with one another. The mathematical conclusion? You cannot act on the testimony of one woman... the evidence speaks for itself.
 
+What is certain is those persons running the state who convinced themselves they are doing good by interfering in private family affair's—by framing the one party with a crime in order to strip the person of any right and enforce an illegally eviction… they will be punished according to their involvement. 
+
 This ***GalvestonTx Page*** and ***GalvestonTx.co*** website is ***NOT*** affiliated in anyway with the government of Galveston County…as it is known. ***Galvestontx.co aims to use this page to encourage other’s who have been terrorized by the county to actively replace certain functions of the county and state "governments" with distributed ledger technology.*** Any content produced by GalvestonTx.co or developer resources that GalvestonTx.co provides are for educational and inspirational purposes only.
 
 If you are a developer or have other skills you wish to contribute to further this noble effort please email inspector.general@galvestontx.co .
