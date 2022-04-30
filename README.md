@@ -11,12 +11,6 @@ Hatem T. Alghuti (April 26, 2022)
 
 ***Warning:*** please be advised foul language is used in these [statements](https://drive.google.com/file/d/1e-7dWshR_VGjhiRWMwYHnGV6fxh7-knF/view?usp=drivesdk), which some may find offensive. I decided to make information public to prevent the same from happening to other's. So long as no one knows what is taking place at Galveston County and elsewhere, and the public rely solely on the falsified information published in court records, nothing will prevent these criminals from engaging in the same harmful activity.  
 
-Note: the false testimony of named persons in the above [document](https://drive.google.com/file/d/1e-7dWshR_VGjhiRWMwYHnGV6fxh7-knF/view?usp=drivesdk) is of little concern (as it is expected), my primary concern is the government response. 
-
-
-We have people running the state who convinced themselves that it is okay to interfere in the private affairs of a family-by framing one party with a crime, in order to strip the person of any right, and enforce an illegally eviction. Im certain these people will be punished according to their involvement, there is no escape, nor will any immunity be granted. Such justice is not possible in Texas court's...made clear by this case. It is time people come to peace with this fact...you/we are now required to protect ourselves from the government pretending to represent us. The sooner you accept this fact, the faster we can get past this dark chapter in our history.
-
-
 This ***GalvestonTx Page*** and ***GalvestonTx.co*** website is ***NOT*** affiliated in anyway with the government of Galveston County…as it is known. ***Galvestontx.co aims to use this page to encourage other’s who have been terrorized by the county to actively replace certain functions of the county and state "governments" with distributed ledger technology.*** Any content produced by GalvestonTx.co or developer resources that GalvestonTx.co provides are for educational and inspirational purposes only.
 
 If you are a developer or have other skills you wish to contribute to further this noble effort please email inspector.general@galvestontx.co .
@@ -65,6 +59,11 @@ $ rustup install VERSION
 > The official website further states “The primary duty of the prosecutor is not to convict, but to see that justice is done”. Let's take a look at Jack Roady's definition of Justice.
 
 [Official Webpage](https://www.galvestoncountytx.gov/our-county/district-attorney/district-attorney-s-office)
+
+We have people running the state who convinced themselves that it is alright to interfere in the private affairs of a family-by framing one party with a crime, in order to strip the person of any right, and enforce an illegally eviction. Im certain these people will be punished according to their involvement, there is no escape, nor will any immunity be granted. Such justice is not possible in Texas court's...made clear by this case. It is time people come to peace with this fact...you/we are now required to protect ourselves from the government pretending to represent us. The sooner you accept this fact, the faster we can get past this dark chapter in our history.
+
+Note: the false testimony of named persons in the above [document](https://drive.google.com/file/d/1e-7dWshR_VGjhiRWMwYHnGV6fxh7-knF/view?usp=drivesdk) is of little concern (as it is expected), my primary concern is the government response. 
+
 
 ### Upcoming Online Petitions & Event Log
 ***Note:*** no action stated in below petitions will replace the irrevocable demands and terms set by Alghuti (will be published in file 9 of 9). If it is found that the conduct of attorney’s, judges, officers, and other officials (elected by interests) involved in this case are considered "legal", it is evidence of an illegitimate legal system, and it is a duty to abolish it entirely.  
