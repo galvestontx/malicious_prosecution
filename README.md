@@ -10,7 +10,7 @@ Hatem T. Alghuti (April 26, 2022)
 
 
 Note: the false testimony of named persons in the above [document](https://drive.google.com/file/d/1e-7dWshR_VGjhiRWMwYHnGV6fxh7-knF/view?usp=drivesdk) is of little concern (as it is expected), my primary concern is the government response. 
-I do not accept anyone punishing my former wife for false testimony. This case is testimony to why The Quran requires two men as witness, and if you cannot find two men, then one man and two women. In this case, three women testified, and you cannot align two of the three together. 
+I do not accept anyone punishing my former wife for false testimony. This case is testimony to why The Quran requires two men as witness, and if you cannot find two men, then one man and two women. In this case, three women testified, and you cannot align two of the three statements together to formulate a solid conclusion. 
 
 
 ***Warning:*** please be advised foul language is used in these [statements](https://drive.google.com/file/d/1e-7dWshR_VGjhiRWMwYHnGV6fxh7-knF/view?usp=drivesdk), which some may find offensive. I decided to make information public to prevent the same from happening to other's. So long as no one knows what is taking place at Galveston County and elsewhere, and the public rely solely on the falsified information published in court records, nothing will prevent these criminals from engaging in the same harmful activity.  
