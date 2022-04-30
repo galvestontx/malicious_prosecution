@@ -18,6 +18,27 @@ Hundreds if not Thousands of pages and documents will be released on this page t
 
 
 ---
+
+### Malicious Prosecution
+
+***Facts:*** Galveston County has a history of criminalizing poverty. The documents on this page is evidence of the latest acts of terror the Galveston County Government has waged against persons that do not have access to the financial system, thus cannot hire defense.  These acts are inflicted upon tens of thousands of people every year in Galveston County alone. 
+
+
+
+> According to Galveston County District Attorney’s official website, Jack Roady “serves alongside a team of 41 assistant district attorneys, 6 peace officers, and 25 support staff, who together prosecute more than 10,000 misdemeanor and felony cases each year in Galveston County”.
+
+[Official Webpage](https://www.galvestoncountytx.gov/our-county/district-attorney)
+
+> The official website further states “The primary duty of the prosecutor is not to convict, but to see that justice is done”. Let's take a look at Jack Roady's definition of Justice.
+
+[Official Webpage](https://www.galvestoncountytx.gov/our-county/district-attorney/district-attorney-s-office)
+
+We have people running the state who convinced themselves that it is alright to interfere in the private affairs of a family-by framing one party with a crime, in order to strip the person of any right, and enforce an illegally eviction. Im certain these people will be punished according to their involvement, there is no escape, nor will any immunity be granted. Such justice is not possible in Texas court's...made clear by this case. It is time people come to peace with this fact...you/we are now required to protect ourselves from the government pretending to represent us. The sooner you accept this fact, the faster we can get past this dark chapter in our history.
+
+Note: the false testimony of named persons in the above [document](https://drive.google.com/file/d/1e-7dWshR_VGjhiRWMwYHnGV6fxh7-knF/view?usp=drivesdk) is of little concern (as it is expected), my primary concern is the government response. 
+
+
+---
 ***Upcoming Schedule***
 
 
@@ -43,26 +64,6 @@ When building a specific release branch, you should check the rust version in ci
 ```
 $ rustup install VERSION
 ```
-
----
-
-### Malicious Prosecution
-
-***Facts:*** Galveston County has a history of criminalizing poverty. The documents on this page is evidence of the latest acts of terror the Galveston County Government has waged against persons that do not have access to the financial system, thus cannot hire defense.  These acts are inflicted upon tens of thousands of people every year in Galveston County alone. 
-
-
-
-> According to Galveston County District Attorney’s official website, Jack Roady “serves alongside a team of 41 assistant district attorneys, 6 peace officers, and 25 support staff, who together prosecute more than 10,000 misdemeanor and felony cases each year in Galveston County”.
-
-[Official Webpage](https://www.galvestoncountytx.gov/our-county/district-attorney)
-
-> The official website further states “The primary duty of the prosecutor is not to convict, but to see that justice is done”. Let's take a look at Jack Roady's definition of Justice.
-
-[Official Webpage](https://www.galvestoncountytx.gov/our-county/district-attorney/district-attorney-s-office)
-
-We have people running the state who convinced themselves that it is alright to interfere in the private affairs of a family-by framing one party with a crime, in order to strip the person of any right, and enforce an illegally eviction. Im certain these people will be punished according to their involvement, there is no escape, nor will any immunity be granted. Such justice is not possible in Texas court's...made clear by this case. It is time people come to peace with this fact...you/we are now required to protect ourselves from the government pretending to represent us. The sooner you accept this fact, the faster we can get past this dark chapter in our history.
-
-Note: the false testimony of named persons in the above [document](https://drive.google.com/file/d/1e-7dWshR_VGjhiRWMwYHnGV6fxh7-knF/view?usp=drivesdk) is of little concern (as it is expected), my primary concern is the government response. 
 
 
 ### Upcoming Online Petitions & Event Log
