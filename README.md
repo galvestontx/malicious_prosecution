@@ -8,7 +8,6 @@ Hatem T. Alghuti (April 26, 2022)
 ```
 ![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)
 
-Please note, the mental anguish, truma, financial ruin, humiliation inflicted upon me by Criminal Jack Roady, is based on a changed testimony which had been submitted by Rawan Issa Alnajjar alleging that a threat had been made. If you read the false testimony (Exhibit-9) submitted in order to gain through a divorce, a school kid can confirm she is liar. I now seek damages and demand Jack Roady and all who aid him in his terrorism be subject to equal infliction of mental anguish, truma, financial ruin, humiliation they so easily inflict against others. May God damn them. Ameen!
 
 ***Warning:*** please be advised foul language is used in these [statements](https://drive.google.com/file/d/1e-7dWshR_VGjhiRWMwYHnGV6fxh7-knF/view?usp=drivesdk), which some may find offensive. I decided to make information public to prevent the same from happening to other's. So long as no one knows what is taking place at Galveston County and elsewhere, and the public rely solely on the falsified information published in court records, nothing will prevent these criminals from engaging in the same harmful activity.  
 
@@ -77,6 +76,8 @@ $ rustup install VERSION
 
 * Demand the Harris Administration identity who the victim is in this case, in reference to this [Executive Order](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/09/30/a-proclamation-on-national-domestic-violence-awareness-and-prevention-month-2021/), Which states - <i>"For too long, domestic violence was considered a “family issue” and was left for families to address in private."</i> <strong><i>"many of us were told that it would cause the disintegration of the family. That was the phrase used. It would cause the disintegration of the family"</i></strong>.. 🤔 sounds about right.
 ***Note*** to achieve the 100,000 signature required to get this to the Whitehouse, a video will be produced for conveying to the general public. 
+
+Please note, the mental anguish, truma, financial ruin, humiliation inflicted upon me by Criminal Jack Roady, is based on a testimony which had been changed and submitted by Rawan Issa Alnajjar alleging that a threat had been made. If you read the false testimony (Exhibit-9) submitted in order to gain through a divorce, a school kid can confirm she is liar. I now seek damages and demand Jack Roady and all who aid him in his terrorism be subject to equal infliction of mental anguish, truma, financial ruin, humiliation they so easily inflict against others. May God damn them. Ameen!
 
 ### Disclaimer 
 A significant portion of this project aims to extend certain legal immunity to persons (in any jurisdiction) working on a project which uses Criterion protocol (refer to whitepaper - Document 5 of 9). 
