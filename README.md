@@ -28,6 +28,8 @@ The practice perpetuates a two-tiered and unconstitutional wealth-based incarcer
 
 We now have individuals running the state who are convinced it is alright to interfere in the private affairs of a family, by framing one party with a crime in order to strip the person of any right and enforce an illegal eviction (to cover up coordinated criminal activity involving the county- evidence will be published in File# 9 of 9). Any person involved in attempting to prosecute this case after the date in which evidence of false testimony was published on 4/26/22, must answer to their involvement in activity detailed in file 9 of 9. Im certain these people will be punished according to their involvement, there is no escape, nor will any immunity be granted. Such justice is not possible in Texas court's...made clear by this case. It is time people come to peace with this fact...you/we are now required to protect ourselves from the government pretending to represent us. The sooner you accept this fact, the faster we can get past this dark chapter in our history.
 
+Furthermore, I do not, nor will i ever grant jurisdiction to the court over matters concerning religious law, my duty, or my household. 
+
 ***Note:*** the false testimony submitted by persons named in the above [document](https://drive.google.com/file/d/1e-7dWshR_VGjhiRWMwYHnGV6fxh7-knF/view?usp=drivesdk) is of little concern (as it is expected), my primary concern is the government response. 
 
 
