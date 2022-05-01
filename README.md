@@ -21,12 +21,9 @@ Hundreds if not Thousands of pages and documents will be released on this page t
 
 ### Malicious Prosecution
 
-A fifteen-month investigation of Galveston County revealed that thousands of people are locked away each year, without a hearing, simply because they cannot afford to pay money bail.
- 
-The practice perpetuates a two-tiered and unconstitutional wealth-based incarceration system that devastates individuals, their families and their communities. Those who cannot afford bail must remain in jail for considerable periods of time, leading many to lose their jobs, their homes, and their children. As a result, defendants often plead guilty to the crimes of which they are charged, not because they are guilty, but because it’s the fastest way out of jail, and they are desperate to return to their communities.
+A fifteen-month investigation of Galveston County revealed that thousands of people are locked away each year, without a hearing, simply because they cannot afford to pay money bail. The practice perpetuates a two-tiered and unconstitutional wealth-based incarceration system that devastates individuals, their families and their communities. Those who cannot afford bail must remain in jail for considerable periods of time, leading many to lose their jobs, their homes, and their children. As a result, defendants often plead guilty to the crimes of which they are charged, not because they are guilty, but because it’s the fastest way out of jail, and they are desperate to return to their communities.
 [see lawsuit](https://www.aclutx.org/sites/default/files/field_documents/pi_motion._booth.pdf)
 
-We now have individuals running the state that are convinced it is alright to interfere in the private affairs of a family, by framing one party with a crime in order to strip the person of any right and enforce an illegal eviction. Im certain these people will be punished according to their involvement. Such justice is not possible in Texas court's...made clear by this case. The false testimony submitted by persons named in the above [document](https://drive.google.com/file/d/1e-7dWshR_VGjhiRWMwYHnGV6fxh7-knF/view?usp=drivesdk) is of little concern (as it is expected), my primary concern is the government response.
 
 ***Facts:*** Galveston County has a history of criminalizing poverty. The documents on this page is evidence of the latest acts of terror the Galveston County Government has waged against persons that do not have access to the financial system, thus cannot hire defense.  These acts are inflicted upon tens of thousands of people every year in Galveston County alone. 
 
@@ -39,6 +36,8 @@ We now have individuals running the state that are convinced it is alright to in
 > The official website further states “The primary duty of the prosecutor is not to convict, but to see that justice is done”. Let's take a look at Jack Roady's definition of Justice.
 
 [Official Webpage](https://www.galvestoncountytx.gov/our-county/district-attorney/district-attorney-s-office)
+
+We now have individuals running the state that are convinced it is alright to interfere in the private affairs of a family, by framing one party with a crime in order to strip the person of any right and enforce an illegal eviction. Im certain these people will be punished according to their involvement. Such justice is not possible in Texas court's...made clear by this case. The false testimony submitted by persons named in the above [document](https://drive.google.com/file/d/1e-7dWshR_VGjhiRWMwYHnGV6fxh7-knF/view?usp=drivesdk) is of little concern (as it is expected), my primary concern is the government response.
 
 ---
 ***Upcoming Schedule***
