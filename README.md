@@ -35,7 +35,7 @@ We now have individuals running the state that are convinced it is alright to in
 ***Upcoming Schedule***
 ##
 * ***[1 of 9](https://drive.google.com/file/d/1e-7dWshR_VGjhiRWMwYHnGV6fxh7-knF/view?usp=drivesdk)*** has been uploaded, after the eight remaining files are uploaded, ***Galvestontx.co*** will begin development of a DApp to supplant the county and state governments within two years, and invite everyone to join.
-* ***2 of 9 |*** ***Guilty Until Proven Innocent*** - The ***Galveston County Court Procedure*** (***Pending***)
+* ***2 of 9 |*** ***Guilty Until Proven Innocent*** - The ***Galveston County Procedure*** (***Pending***)
 ##
 
 This ***GalvestonTx Page*** and ***GalvestonTx.co*** website is ***NOT*** affiliated in anyway with the government of Galveston County…as it is known. ***Galvestontx.co aims to use this page to encourage other’s who have been terrorized by the county to actively replace certain functions of the county and state "governments" with distributed ledger technology.*** Any content produced by GalvestonTx.co or developer resources that GalvestonTx.co provides are for educational and inspirational purposes only.
