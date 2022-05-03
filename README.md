@@ -11,7 +11,6 @@ Hatem T. Alghuti (April 26, 2022)
 
 ***Warning:*** please be advised foul language is used in these [statements](https://drive.google.com/file/d/1e-7dWshR_VGjhiRWMwYHnGV6fxh7-knF/view?usp=drivesdk), which some may find offensive. I decided to make information public to prevent the same from happening to other's. So long as no one knows what is taking place at Galveston County and elsewhere, and the public rely solely on the falsified information published in court records, nothing will prevent these criminals from engaging in the same harmful activity.  
 
-***Note:*** (assuming the court has jurisdiction over the cases- it does not) matters concerning the marriage as well as the fraudulent charges made against Hatem Alghuti are nothing more than a distraction from the real matters which this criminal case aims to conceal (refer to File 9 of 9).
 
 
 ---
