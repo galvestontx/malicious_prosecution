@@ -84,7 +84,7 @@ Because we are still in the early stages of this development, readers should be 
 ---
 ## Introduction to Guilty Until Proven Otherwise - Practices of the Galveston County Court (File 2 of 9)
 
-Methods and Questions Used in Preliminary Findings 
+Questions  
 
 Did police have enough evidence to arrest and charge Hatem Al-Ghuti with ‘making a terroristic threat against a family member’ on 12/23/20,  based on verbal statements made by Lisa Salazar, Samia Marmash, and Rawan Al-Najjar.
 
