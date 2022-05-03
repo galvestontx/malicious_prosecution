@@ -79,32 +79,4 @@ $ rustup install VERSION
 ##
 ### Disclaimer 
 A significant portion of this project aims to extend certain legal immunity to persons (in any jurisdiction) working on a project which uses Criterion protocol (refer to whitepaper - Document 5 of 9). 
-Because we are still in the early stages of this development, readers should be aware that U.S. export control and sanctions laws prohibit U.S. persons (and other persons that are subject to such laws) from transacting with persons in certain countries and territories or that are on the SDN list. As a project-based primarily on open-source software, it is possible that such sanctioned persons may nevertheless bypass prohibitions, obtain the code comprising the blockchain protocol (or other project code or applications) and deploy, integrate, or otherwise use it. Accordingly, there is a risk to individuals that other persons using the blockchain protocol may be sanctioned persons and that transactions with such persons would be a violation of U.S. export controls and sanctions law. 
-
----
-## Introduction to Guilty Until Proven Otherwise - Practices of the Galveston County Court (File 2 of 9)
-
-Questions  
-
-Did police have enough evidence to arrest and charge Hatem Al-Ghuti with ‘making a terroristic threat against a family member’ on 12/23/20,  based on verbal statements made by Lisa Salazar, Samia Marmash, and Rawan Al-Najjar.
-
-Note: At this stage police did not ask Hatem Alghuti for a statement, and arrested Hatem Alghuti around 8:15 PM on 12/23/20 based on verbal statements made by Lisa Salazar, Samia Marmash, and Rawan Al-Najjar. The arrest occurred prior to taking Edward Salazar’s statement, and prior to the written statements attached as Exhibit-3 through Exhibit-6 in File# 1 of 9. 
-
-Did the county have enough evidence to charge Hatem Al-Ghuti with ‘making a terroristic threat against a family member’ on 12/23/20, based on the four written testimonies recorded in the police report?
-
-Note: based on the four written testimonies recorded in the police report, three out of four statements have a general consensus of the event, while one statement introduces an entirely new narrative which suggests (a) the neighbor (making the allegation) was informed the suspect had a weapon,  aware he is a violent extremist,  and decided to “see the situation “ rather than calling the police; (b) Hatem made a Terroristic Threat. 
-
-Assuming Jack Roady answered ‘Yes’ to the above argument’s, it would only be a logical conclusion that the presumed compelling evidence used in to arrest and charge Hatem Al-Ghuti (for “making a terroristic threat”) must also be used to prosecute the criminal case. Instead, Jack Roady relies on a statement (which contradicts the initial statement) filed after Hatem Alghuti was arrested and later charged.
-
-On [February 1, 2021] Jack Roady signed [this letter](https://github.com/galvestontx/malicious_prosecution/blob/604383361e7814de3826ec060cc8d9788f00a54d/Roady_1.jpeg). In support of the allegations made in this letter, Jack Roady relies on an affidavit filed on 12/29/20 (by Matthew Skillern), almost a week after the ‘terroristic threat’ charge had already been issued by the county— after arresting Hatem Al-Ghuti without charge. The charges issued prior to 12/29/20 are based on statements filed by Rawan on 12/23/20, where no reference of a threat to “kill” is made.
-
-The strategy used by Jack Roady to undermine the religious office which has been misrepresented in Rawan Issa Alnajjar’s affidavit has already been addressed below section 4(a) [in-response](https://github.com/galvestontx/malicious_prosecution/blob/001e9e2ddb3c3005b6d121bf8f073523dfc571da/21-FD-0102%20-%20Response.pdf) to Matthew Allen Skillern’s petition, rejecting the court jurisdiction over person and subject matter or any matter concerning the office.
-
-Conclusion, there is no separation whatsoever between the civil and criminal case. The statement used by Jack Roady is derived from the affidavit filed for the exclusive purpose of gaining advantage in a divorce and undermining the religious office (see response)
-
-Understanding the Information Systems Used by Attorney’s and the District Attorney’s 
-
-Hatem Alghuti is requesting full disclosure regarding information made available and shared between the District Attorney’s office and attorney’s representing one or more persons named in case # (). 
-
-
-
+Because we are still in the early stages of this development, readers should be aware that U.S. export control and sanctions laws prohibit U.S. persons (and other persons that are subject to such laws) from transacting with persons in certain countries and territories or that are on the SDN list. As a project-based primarily on open-source software, it is possible that such sanctioned persons may nevertheless bypass prohibitions, obtain the code comprising the blockchain protocol (or other project code or applications) and deploy, integrate, or otherwise use it. Accordingly, there is a risk to individuals that other persons using the blockchain protocol may be sanctioned persons and that transactions with such persons would be a violation of U.S. export controls and sanctions 
