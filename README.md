@@ -104,7 +104,7 @@ Conclusion, there is no separation whatsoever between the civil and criminal cas
 
 Understanding the Information Systems Used by Attorney’s and the District Attorney’s 
 
-Hatem Alghuti is requesting full disclosure regarding information made available and shared between the the District Attorney’s office and attorney’s representing one or more persons named in case # (). 
+Hatem Alghuti is requesting full disclosure regarding information made available and shared between the District Attorney’s office and attorney’s representing one or more persons named in case # (). 
 
 
 
