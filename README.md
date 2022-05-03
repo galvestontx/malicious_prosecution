@@ -98,7 +98,7 @@ Assuming Jack Roady answered ‘Yes’ to the above argument’s, it would only 
 
 On [February 1, 2021] Jack Roady signed [this letter](https://github.com/galvestontx/malicious_prosecution/blob/604383361e7814de3826ec060cc8d9788f00a54d/Roady_1.jpeg). In support of the allegations made in this letter, Jack Roady relies on an affidavit filed on 12/29/20 (by Matthew Skillern), almost a week after the ‘terroristic threat’ charge had already been issued by the county— after arresting Hatem Al-Ghuti without charge. The charges issued prior to 12/29/20 are based on statements filed by Rawan on 12/23/20, where no reference of a threat to “kill” is made.
 
-The strategy used by Jack Roady to undermine the religious office which has been misrepresented in Rawan Issa Alnajjar’s affidavit has already been addressed in the [below section in response] to Matthew Allen Skillern’s petition, denying the court any jurisdiction over the subject matter and person of the office.
+The strategy used by Jack Roady to undermine the religious office which has been misrepresented in Rawan Issa Alnajjar’s affidavit has already been addressed in the [below section 4(a)[in response](https://github.com/galvestontx/malicious_prosecution/blob/001e9e2ddb3c3005b6d121bf8f073523dfc571da/21-FD-0102%20-%20Response.pdf) to Matthew Allen Skillern’s petition, denying the court any jurisdiction over the subject matter and person of the office.
 
 Conclusion, there is no separation whatsoever between the civil and criminal case. The statement used by Jack Roady is derived from the affidavit filed for the exclusive purpose of gaining advantage in a divorce and undermining the religious office (see response)
 
