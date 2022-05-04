@@ -15,9 +15,17 @@ In addition to publishing police statements (which are attached as Exhibit 3-6 i
 
 ***COUNTY OF LEAGUED CITIES***
 Intention to Petition for the Annexation of Precinct 1, Precinct 3, and Precinct 4, as a county separate from Galveston County been conveyed. 
-See [map](https://arcg.is/0GGLzO)
 
 We will be reaching out to respective commissioner's in the coming weeks. 
+
+
+Click [here](https://arcg.is/0GGLzO) to see interactive map.
+
+Precinct 1- green
+Precinct 3- blue
+Precinct 4- red
+
+![image](https://github.com/galvestontx/malicious_prosecution/blob/046727d30c7ab9ae9781c471d6efb370927d5b21/968E81F4-6470-4301-A73F-DCFD81314ABA.jpeg)
 
 
 ---
