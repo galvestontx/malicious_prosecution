@@ -20,7 +20,8 @@ In addition to the police statements (which are attached as Exhibit 3-6 in File 
 * ***2 of 9 |*** ***Guilty Until Proven Otherwise*** - Galveston County Practices (***Pending***)
 ##
 
-***COUNTY OF LEAGUED CITIES***
+# COUNTY OF LEAGUED CITIES
+
 Petition for the Annexation of Precinct 1, Precinct 3, and Precinct 4, as a county separate from Galveston County will be uploaded before June 2022.
 
 We will be reaching out to respective commissioner's in the coming weeks. 
