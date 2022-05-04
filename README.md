@@ -1,7 +1,7 @@
 
 ***DECLARATION***
 
-I, Hatem T. Alghuti, declare Texas courts illegitimate, and unconstitutional institutions, that practice an unknown law, and provide the [following](https://drive.google.com/file/d/1kcSdHEEKjGkIfb6JfCF1ofDCBqTJeDtI/view?usp=drivesdk) evidence in support of this declaration. I invite the public to attend the trials to take place at Galveston County, to witness first hand the illegal enforcement of the unknown law. I further call for the dissolution of the declared illegal institutions.
+I, Hatem T. Alghuti, declare Texas courts illegitimate, and unconstitutional institutions, that practice an unknown law, and provide the [following](https://drive.google.com/file/d/1A6vn3HHm6z-dXNBUNmM8QrHjJHQ0nHx1/view?usp=drivesdk) evidence in support of this declaration. I invite the public to attend the trials to take place at Galveston County, to witness first hand the illegal enforcement of the unknown law. I further call for the dissolution of the declared illegal institutions.
 
 ```
 Hatem T. Alghuti (April 26, 2022) 
@@ -9,7 +9,7 @@ Hatem T. Alghuti (April 26, 2022)
 ![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)
 
 
-***Warning:*** please be advised foul language is used in these [statements](https://drive.google.com/file/d/1e-7dWshR_VGjhiRWMwYHnGV6fxh7-knF/view?usp=drivesdk), which some may find offensive. I decided to make information public to prevent the same from happening to other's. So long as no one knows what is taking place at Galveston County and elsewhere, and the public rely solely on the falsified information published in court records, nothing will prevent these criminals from engaging in the same harmful activity.  
+***Warning:*** please be advised foul language is used in these [statements](https://drive.google.com/file/d/1A6vn3HHm6z-dXNBUNmM8QrHjJHQ0nHx1/view?usp=drivesdk), which some may find offensive. I decided to make information public to prevent the same from happening to other's. So long as no one knows what is taking place at Galveston County and elsewhere, and the public rely solely on the falsified information published in court records, nothing will prevent these criminals from engaging in the same harmful activity.  
 
 ---
 ***Upcoming Schedule***
