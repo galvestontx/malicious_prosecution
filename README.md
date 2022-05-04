@@ -13,6 +13,13 @@ Hatem T. Alghuti (April 26, 2022)
 
 In addition to the police statements (which are attached as Exhibit 3-6 in File 1 of 9), the [audio](https://github.com/galvestontx/malicious_prosecution/blob/cee3feb0e13e67209791023ee602ef2bd3e9ee39/First_Call.m4a) for the Emergency Call Transcription (Exhibit-A transcription) is available for download.
 
+---
+***Upcoming Schedule***
+##
+* ***[1 of 9](https://drive.google.com/file/d/1kcSdHEEKjGkIfb6JfCF1ofDCBqTJeDtI/view?usp=drivesdk)*** has been uploaded, after the eight remaining files are uploaded, ***Galvestontx.co*** will begin development of a DApp to supplant the county and state governments within two years, and invite everyone to join.
+* ***2 of 9 |*** ***Guilty Until Proven Otherwise*** - Galveston County Practices (***Pending***)
+##
+
 ***COUNTY OF LEAGUED CITIES***
 Petition for the Annexation of Precinct 1, Precinct 3, and Precinct 4, as a county separate from Galveston County is underway. 
 
@@ -27,13 +34,6 @@ Precinct 4- red
 
 ![image](https://github.com/galvestontx/malicious_prosecution/blob/046727d30c7ab9ae9781c471d6efb370927d5b21/968E81F4-6470-4301-A73F-DCFD81314ABA.jpeg)
 
-
----
-***Upcoming Schedule***
-##
-* ***[1 of 9](https://drive.google.com/file/d/1kcSdHEEKjGkIfb6JfCF1ofDCBqTJeDtI/view?usp=drivesdk)*** has been uploaded, after the eight remaining files are uploaded, ***Galvestontx.co*** will begin development of a DApp to supplant the county and state governments within two years, and invite everyone to join.
-* ***2 of 9 |*** ***Guilty Until Proven Otherwise*** - Galveston County Practices (***Pending***)
-##
 
 This ***GalvestonTx Page*** and ***GalvestonTx.co*** website is ***NOT*** affiliated in anyway with the government of Galveston County…as it is known. ***Galvestontx.co aims to use this page to encourage other’s who have been terrorized by the county to actively replace certain functions of the county and state "governments" with distributed ledger technology.*** Any content produced by GalvestonTx.co or developer resources that GalvestonTx.co provides are for educational and inspirational purposes only.
 
