@@ -22,9 +22,10 @@ In addition to the police statements (which are attached as Exhibit 3-6 in File 
 
 # THE COUNTY OF LEAGUED CITIES
 
-Petition for the Annexation of Precinct 1, Precinct 3, and Precinct 4, as a county separate from Galveston County will be uploaded before June 2022.
+We the People of the United States of North America, in Order to form a more perfect Union, establish Justice, insure domestic Tranquility, provide for the common defense, promote the general Welfare, and secure the Blessings of Liberty to ourselves and our Posterity, do ordain and establish The County of Leagued Cities. 
 
-We will be reaching out to respective commissioner's in the coming weeks. 
+* Petition for the Annexation of cities located in Precinct 1, Precinct 3, and Precinct 4, as a county separate from Galveston County will be uploaded before June 2022.
+* We will be reaching out to respective commissioner's in the coming weeks. 
 
 
 Click [here](https://arcg.is/0GGLzO) to see interactive map.
