@@ -11,6 +11,8 @@ Hatem T. Alghuti (April 26, 2022)
 
 ***Warning:*** please be advised foul language is used in these [statements](https://drive.google.com/file/d/1A6vn3HHm6z-dXNBUNmM8QrHjJHQ0nHx1/view?usp=drivesdk), which some may find offensive. I decided to make information public to prevent the same from happening to other's. So long as no one knows what is taking place at Galveston County and elsewhere, and the public rely solely on the falsified information published in court records, nothing will prevent these criminals from engaging in the same harmful activity.  
 
+In addition to publishing police statements (which are attached as Exhibit 3-6 in File 1 of 9), the [audio](https://github.com/galvestontx/malicious_prosecution/blob/cee3feb0e13e67209791023ee602ef2bd3e9ee39/First_Call.m4a) for the Emergency Call Transcription (Exhibit-A transcription) is available for download.
+
 ---
 ***Upcoming Schedule***
 ##
