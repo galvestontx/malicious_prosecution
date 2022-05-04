@@ -30,9 +30,9 @@ We the People of the United States of North America, in Order to form a more per
 
 Click [here](https://arcg.is/0GGLzO) to see interactive map.
 
-Precinct 1- green
-Precinct 3- blue
-Precinct 4- red
+Precinct 1- Green |
+Precinct 3- Blue  |
+Precinct 4- Red   |
 
 ![image](https://github.com/galvestontx/malicious_prosecution/blob/046727d30c7ab9ae9781c471d6efb370927d5b21/968E81F4-6470-4301-A73F-DCFD81314ABA.jpeg)
 
