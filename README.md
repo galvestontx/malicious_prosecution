@@ -14,7 +14,7 @@ Hatem T. Alghuti (April 26, 2022)
 In addition to publishing police statements (which are attached as Exhibit 3-6 in File 1 of 9), the [audio](https://github.com/galvestontx/malicious_prosecution/blob/cee3feb0e13e67209791023ee602ef2bd3e9ee39/First_Call.m4a) for the Emergency Call Transcription (Exhibit-A transcription) is available for download.
 
 ***COUNTY OF LEAGUED CITIES***
-Intention to Petition for the Annexation of Precinct 1, Precinct 3, and Precinct 4, as a county separate from Galveston County been conveyed. 
+Petition for the Annexation of Precinct 1, Precinct 3, and Precinct 4, as a county separate from Galveston County is underway. 
 
 We will be reaching out to respective commissioner's in the coming weeks. 
 
