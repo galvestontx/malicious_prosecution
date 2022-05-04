@@ -1,7 +1,7 @@
 
 ***DECLARATION***
 
-I, Hatem T. Alghuti, declare Texas courts illegitimate, and unconstitutional institutions, that practice an unknown law, and provide the [following](https://drive.google.com/file/d/1e-7dWshR_VGjhiRWMwYHnGV6fxh7-knF/view?usp=drivesdk) evidence in support of this declaration. I invite the public to attend the trials to take place at Galveston County, to witness first hand the illegal enforcement of the unknown law. I further call for the dissolution of the declared illegal institutions.
+I, Hatem T. Alghuti, declare Texas courts illegitimate, and unconstitutional institutions, that practice an unknown law, and provide the [following](https://drive.google.com/file/d/1fjmbt5wtE213hGPv5cm1pPupG_pvtHyz/view?usp=drivesdk) evidence in support of this declaration. I invite the public to attend the trials to take place at Galveston County, to witness first hand the illegal enforcement of the unknown law. I further call for the dissolution of the declared illegal institutions.
 
 ```
 Hatem T. Alghuti (April 26, 2022) 
