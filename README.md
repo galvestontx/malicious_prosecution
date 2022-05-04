@@ -30,6 +30,7 @@ In addition to the police statements (which are attached as Exhibit 3-6 in File 
 
 * Petition for the Annexation of cities located within Precinct 1, Precinct 3, and Precinct 4, as a county separate from Galveston County will be uploaded before June 2022.
 * We will be reaching out to respective commissioner's in the coming weeks. 
+* Hatem Al-Ghuti intends to convey title to approximately 10,256 square feet (~.2355 acres) of land in League City to the County of Leagued Cities. The property was transferred into a private trust on August 11, 2020 at 5:56 PM for the purpose of securing Alghuti's property from hostile entities.
 
 
 Click [here](https://arcg.is/0GGLzO) to see interactive map.
