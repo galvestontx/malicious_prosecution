@@ -28,7 +28,7 @@ We the People of the United States of North America, in Order to form a more per
 Hatem T. Alghuti (May 4, 2022) 
 ```
 
-* Petition for the Annexation of cities located in Precinct 1, Precinct 3, and Precinct 4, as a county separate from Galveston County will be uploaded before June 2022.
+* Petition for the Annexation of cities located within Precinct 1, Precinct 3, and Precinct 4, as a county separate from Galveston County will be uploaded before June 2022.
 * We will be reaching out to respective commissioner's in the coming weeks. 
 
 
