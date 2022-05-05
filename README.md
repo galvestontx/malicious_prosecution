@@ -124,7 +124,7 @@ Kerri Foley must pay 264,000.00 dollars to Alghuti by 5/6/22, this will not be f
 
 * To add insult to injury, Foley's illegitimate decree, demands Alghuti pay $20,000.00 to Rawan's attorney's. It is worth mentioning the common denominator between Kerri Foley and Jack Roady is that both individuals accepted campaign contributions from the ["Republican Women PAC"](https://www.transparencyusa.org/tx/payee/kerri-foley-campaign?cycle=2018-election-cycle).
 
-
+---
 ### Disclaimer 
 <sup> A significant portion of this project aims to extend certain legal immunity to persons (in any jurisdiction) working on a project which uses Criterion protocol (refer to whitepaper - Document 5 of 9). Because we are still in the early stages of this development, readers should be aware that U.S. export control and sanctions laws prohibit U.S. persons (and other persons that are subject to such laws) from transacting with persons in certain countries and territories or that are on the SDN list. As a project-based primarily on open-source software, it is possible that such sanctioned persons may nevertheless bypass prohibitions, obtain the code comprising the blockchain protocol (or other project code or applications) and deploy, integrate, or otherwise use it. Accordingly, there is a risk to individuals that other persons using the blockchain protocol may be sanctioned persons and that transactions with such persons would be a violation of U.S. export controls and sanctions law.</sup>
 
