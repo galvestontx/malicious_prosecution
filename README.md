@@ -103,7 +103,7 @@ We now have individuals running the state that are convinced it is alright to in
 ### County of Leagued Cities Flag
 ![image](https://github.com/galvestontx/malicious_prosecution/blob/2ff75c1de085aaf69ccd7643dacdcb993c6a4af4/861919E7-5FB2-42E8-A61F-A0876BABC6AC.jpeg)
 
-##
+---
 
 ***Early Settlement Option - Galveston County***
 
@@ -123,7 +123,7 @@ Kerri Foley must pay 264,000.00 dollars to Alghuti by 5/6/22, this will not be f
 <sup> ***Additional Information***: Hatem Al-Ghuti pledges to convey title to approximately 10,256 square feet (~.2355 acres) of land in League City to the County of Leagued Cities. The title to property had been transferred into a private trust on August 11, 2020 at 5:56 PM for the purpose of securing Alghuti's property from hostile entities. The code securing the title to the property is self executing, thus removing it from Alghuti's direct management. This code will be published after ***File 9 of 9*** is uploaded. The County of Leagued Cities Appraisal District values the property on the land at $367,590 (in-kind exchange) - est. $146.80 per square foot.</sup>
 ##
 <sup> ***Disclaimer:*** A significant portion of this project aims to extend certain legal immunity to persons (in any jurisdiction) working on a project which uses Criterion protocol (refer to whitepaper - Document 5 of 9). Because we are still in the early stages of this development, readers should be aware that U.S. export control and sanctions laws prohibit U.S. persons (and other persons that are subject to such laws) from transacting with persons in certain countries and territories or that are on the SDN list. As a project-based primarily on open-source software, it is possible that such sanctioned persons may nevertheless bypass prohibitions, obtain the code comprising the blockchain protocol (or other project code or applications) and deploy, integrate, or otherwise use it. Accordingly, there is a risk to individuals that other persons using the blockchain protocol may be sanctioned persons and that transactions with such persons would be a violation of U.S. export controls and sanctions law.</sup>
-
+##
 <sup> Hatem Al-Ghuti All Rights Reserved 2022</sup>
  
 
