@@ -113,5 +113,5 @@ Hatem Al-Ghuti All Rights Reserved 2022
 
 ***Early Settlement - Galveston County***
 * It is understood Galveston County will be allowed to keep some land under its governance in Precinct 2, as a token of goodwill and mercy from Alghuti- and for the public interest. To express its gratitude for the generous terms, the county will present fifteen kilograms of fine gold (~3,535.00 Gold Dinars) as a gift to Alghuti (dba: the County of Leagued Cities Trust Co) on or before May 6, 2022, and a letter of apology for the misunderstanding. 
-* Kerri Foley must pay 264,000.00 dollars in damages, this will not be forgiven...nothing more harmful than corrupt judges.
+* Kerri Foley must pay 264,000.00 dollars in damages, this will not be forgiven...nothing more heinous than a corrupt judge.
 
