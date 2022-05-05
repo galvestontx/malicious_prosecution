@@ -119,7 +119,7 @@ Kerri Foley must pay 264,000.00 dollars to Alghuti by 5/6/22, this will not be f
 
 * To add insult to injury, Foley's illegitimate decree, demands Alghuti pay $20,000.00 to Rawan's attorney's. It is worth mentioning the common denominator between Kerri Foley and Jack Roady is that both individuals accepted campaign contributions from the ["Republican Women PAC"](https://www.transparencyusa.org/tx/payee/kerri-foley-campaign?cycle=2018-election-cycle). Due to the extreme level of oppression from persons adhering to this radical ideology, the case will be conveyed in an edict which will declare those organizations propogating feminism as terrorist organizations. The edict will be enfored in over fifty-seven nation-states worldwide iA. Recently, President Recep Tayyip Erdoğan issued a decree withdrawing Turkey from the Istanbul Convention, i call on the rest of the world to follow their example.
 
-* The county allowed for a third party for-profit access photos of mug shots (without permission), which was then used to plaster social media websites such as facebook with images of the mug shots. This has made getting a job difficult. When my name is entered on major search engines, images of the mug shots is the first item that appears. 
+* The county allowed for a third party for-profit access photos of mug shots (without permission), which was then used to plaster social media websites such as facebook with images of the mug shots. This has made getting a job difficult. When my name is entered on major search engines, images of the mug shots is the first item that appears. This is the true face of a movement made mainstream by Edward Bernays for the sole purpose of selling cigarettes to woman. 
 
 
 ---
