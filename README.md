@@ -29,10 +29,7 @@ In addition to the police statements (which are attached as Exhibit 3-6 in File 
 ```
 
 * Petition for the Annexation of cities located within Precinct 1, Precinct 3, and Precinct 4, as a county separate from Galveston County will be uploaded before June 2022.
-* We will be reaching out to respective commissioner's in the coming weeks. 
-* Hatem Al-Ghuti pledges to convey title to approximately 10,256 square feet (~.2355 acres) of land in League City to the County of Leagued Cities. The property was transferred into a private trust on August 11, 2020 at 5:56 PM for the purpose of securing Alghuti's property from hostile entities. The code securing the title to the property is self executing, removing it from Alghuti's direct management. This code will be published after File 9 of 9 is uploaded. The County of Leagued Cities Appraisal District values the property on the land at $367,590 - est. $146.80 per square foot. 
-* It is understood Galveston County will be allowed to keep some land under its governance in Precinct 2, as a token of goodwill and mercy from Alghuti for the public interest, in return for the generosity the county must deliver fifteen kilograms of fine gold (~3,535.00 Gold Dinars) as payment to Alghuti (dba: the County of Leagued Cities Trust Co) on or before May 6, 2022.
-
+* We will be reaching out to respective commissioner's in the coming weeks.
 
 Click [here](https://arcg.is/0GGLzO) to see interactive map.
 
@@ -110,3 +107,8 @@ Hatem Al-Ghuti All Rights Reserved 2022
 ---
 ### County of Leagued Cities Flag
 ![image](https://github.com/galvestontx/malicious_prosecution/blob/2ff75c1de085aaf69ccd7643dacdcb993c6a4af4/861919E7-5FB2-42E8-A61F-A0876BABC6AC.jpeg)
+
+Additional Terms
+* Hatem Al-Ghuti pledges to convey title to approximately 10,256 square feet (~.2355 acres) of land in League City to the County of Leagued Cities. The property was transferred into a private trust on August 11, 2020 at 5:56 PM for the purpose of securing Alghuti's property from hostile entities. The code securing the title to the property is self executing, removing it from Alghuti's direct management. This code will be published after File 9 of 9 is uploaded. The County of Leagued Cities Appraisal District values the property on the land at $367,590 - est. $146.80 per square foot. 
+* It is understood Galveston County will be allowed to keep some land under its governance in Precinct 2, as a token of goodwill and mercy from Alghuti for the public interest. To express its gratitude for the generous terms, the county will present fifteen kilograms of fine gold (~3,535.00 Gold Dinars) as a gift to Alghuti (dba: the County of Leagued Cities Trust Co) on or before May 6, 2022, and a thank you letter. 
+
