@@ -14,7 +14,7 @@ Hatem T. Alghuti (April 26, 2022)
 
 Further evidence is provided in ***File 2 of 9***, proving the court has already convicted Alghuti of a crime prior to the first setting scheduled for May 6, 2022. This is a result of deliberate intermingling of the civil case with the criminal charges. Evidence that the case had already been decided is presented in a decree signed by Kerri Foley on 11/19/21, accusing Alghuti of "Cruelty" and "committing violence" while denying him a single hearing. Foley refused to consider Alghuti's [Jurisdiction Challenge](https://drive.google.com/file/d/12caIV_4D2Ax0wowT9MGzdq-IJwmqW2ZQ/view), and other evidence to consider equalizing representation due to the gross disparity in income between Rawan Alnajjar (a physician) and Hatem Alghuti (unemployed). Rawan Alnajjar appeared for the trial with two attorney's (Matthew Skillern and Ali Shah) by her side, who were supported by a staff of attorney's and other legal "professionals", while Alghuti, having clearly conveyed his financial circumstances, and having made over a dozen requests (including two in-person) for assistance had been denied all rights. 
 
-To add insult to injury, Foley's illegitimate decree, demands Alghuti pay $20,000.00 to Rawan's attorney's. This case will be conveyed in an edict which will declare those organizations propogating feminism as terrorist organizations. The edict will be enfored in over fifty-seven nation-states worldwide.
+To add insult to injury, Foley's illegitimate decree, demands Alghuti pay $20,000.00 to Rawan's attorney's. It is worth mentioning the common denominator between Kerri Foley and Jack Roady is that both individuals accept contributions from the "Republican Woman PAC".
 
 ---
 ***Upcoming Schedule***
