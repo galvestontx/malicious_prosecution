@@ -28,7 +28,7 @@ Hatem T. Alghuti (April 26, 2022)
 ***Signed|*** Hatem T. Alghuti (May 4, 2022) 
 ```
 
-* Petition for the Annexation of cities located within Precinct 1, Precinct 3, and Precinct 4, as a county separate from Galveston County will be uploaded before June 2022.
+* Petition for the Annexation of cities located within ****Precinct 1***, ***Precinct 3***, and ***Precinct 4***, as a county separate from Galveston County will be uploaded before June 2022.
 * We will be reaching out to respective commissioner's in the coming weeks.
 
 Click [here](https://arcg.is/0GGLzO) to see interactive map.
