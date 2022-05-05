@@ -121,6 +121,7 @@ Kerri Foley must pay 264,000.00 dollars to Alghuti by 5/6/22, this will not be f
 
 * The county allowed for a third party for-profit access photos of mug shots (without permission), which was then used to plaster social media websites such as facebook with images of the mug shots. This has made getting a job difficult. When my name is entered on major search engines, images of the mug shots is the first item that appears. This is the true face of a movement made mainstream by Edward Bernays for the sole purpose of selling cigarettes to woman. They have destroyed their own cause, and the world already knows it.
 
+I end content writing for this page with a question for those who took the time to read and understand, a question aimed at provoking thought, who is guilty of cruelty? Feel free to let Judge Kerri Foley know the answer to this question by sending her a letter. 
 
 ---
 <sup> ***Additional Information***: Hatem Al-Ghuti pledges to convey title to approximately 10,256 square feet (~.2355 acres) of land in League City to the County of Leagued Cities. The title to property had been transferred into a private trust on August 11, 2020 at 5:56 PM for the purpose of securing Alghuti's property from hostile entities. The code securing the title to the property is self executing, thus removing it from Alghuti's direct management. This code will be published after ***File 9 of 9*** is uploaded. The County of Leagued Cities Appraisal District values the property on the land at $367,590 (in-kind exchange) - est. $146.80 per square foot.</sup>
