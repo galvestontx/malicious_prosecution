@@ -100,8 +100,7 @@ We now have individuals running the state that are convinced it is alright to in
 
 ##
 
-> ***Additional Information***:
-> Hatem Al-Ghuti pledges to convey title to approximately 10,256 square feet (~.2355 acres) of land in League City to the County of Leagued Cities. The title to property had been transferred into a private trust on August 11, 2020 at 5:56 PM for the purpose of securing Alghuti's property from hostile entities. The code securing the title to the property is self executing, thus removing it from Alghuti's direct management. This code will be published after ***File 9 of 9*** is uploaded. The County of Leagued Cities Appraisal District values the property on the land at $367,590 (in-kind exchange) - est. $146.80 per square foot. 
+<sup> ***Additional Information***: Hatem Al-Ghuti pledges to convey title to approximately 10,256 square feet (~.2355 acres) of land in League City to the County of Leagued Cities. The title to property had been transferred into a private trust on August 11, 2020 at 5:56 PM for the purpose of securing Alghuti's property from hostile entities. The code securing the title to the property is self executing, thus removing it from Alghuti's direct management. This code will be published after ***File 9 of 9*** is uploaded. The County of Leagued Cities Appraisal District values the property on the land at $367,590 (in-kind exchange) - est. $146.80 per square foot.</sup>
 
 ---
 ### County of Leagued Cities Flag
