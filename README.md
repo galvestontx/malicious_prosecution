@@ -98,13 +98,13 @@ We now have individuals running the state that are convinced it is alright to in
 
 * Recently Twitter blocked me from the account established for this page before I had the chance to make a single post. If the FTC fails to enforce antitrust policy within 90 days, a call for protest and demand for the immediate seizure all the company assets will be published. In the mean time im looking into viable alternatives such as Vkontakte or odnoklassniki. It is sad that we now have to rely on foreign social media platforms to communicate. That's the United State's of America in the year 2022, with "freedom of the press" as the only profession explicitly mentioned in the constitution by name.
 
----
+##
 
 ***Additional Information***
 
 Hatem Al-Ghuti pledges to convey title to approximately 10,256 square feet (~.2355 acres) of land in League City to the County of Leagued Cities. The title to property had been transferred into a private trust on August 11, 2020 at 5:56 PM for the purpose of securing Alghuti's property from hostile entities. The code securing the title to the property is self executing, thus removing it from Alghuti's direct management. This code will be published after File 9 of 9 is uploaded. The County of Leagued Cities Appraisal District values the property on the land at $367,590 (in-kind exchange) - est. $146.80 per square foot. 
 
-##
+---
 
 ***Early Settlement Option - Galveston County***
 
