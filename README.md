@@ -106,7 +106,7 @@ Hatem Al-Ghuti pledges to convey title to approximately 10,256 square feet (~.23
 
 ##
 
-***Early Settlement - Galveston County***
+***Early Settlement Option - Galveston County***
 
 
 The Galveston County regime must be dismantled, this is not an item that will be negotiated. It is understood Galveston County will be allowed to keep some land under its governance in Precinct 2, as a token of goodwill and mercy from Alghuti- and for the public interest. To express its gratitude for the generous terms, the county will present fifteen kilograms of fine gold (~3,535.00 Gold Dinars) as a gift to Alghuti (dba: the County of Leagued Cities Trust Co) on or before May 6, 2022, and a letter of apology for the misunderstanding. Other terms and sanctions apply, it is the county's duty to understand what those terms are. No taxes will be paid to the inactive/ complicit federal and state governments.
