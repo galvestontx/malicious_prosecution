@@ -118,7 +118,7 @@ Kerri Foley must pay 264,000.00 dollars in damages, this will not be forgiven...
 
 * Rawan Alnajjar appeared for the trial on 11/15/21 with two attorney's present, standing on her behalf (Matthew Skillern and Ali Shah), supported by a full staff of attorney's and other legal "professionals". In the request, Alghuti clearly conveyed proof of his financial circumstances and suffering which resulted from the false accusations made by Rawan. The court refused to uphold the marital agreement signed by Rawan, which would allow for mediation (see Motion to waive Mediation), because Rawan made an accusation of violence- although proof of her false testimony was provided. Hatem Alghuti was denied all requests, not only for assistance, but also his right to due process, or even basic dignity see his daughter (they refused a request to send Alghuti a photo of his daughter). 
 
-* To add insult to injury, Foley's illegitimate decree, demands Alghuti pay $20,000.00 to Rawan's attorney's. It is worth mentioning the common denominator between Kerri Foley and Jack Roady is that both individuals accepted campaign contributions from the "Republican Women PAC".
+* To add insult to injury, Foley's illegitimate decree, demands Alghuti pay $20,000.00 to Rawan's attorney's. It is worth mentioning the common denominator between Kerri Foley and Jack Roady is that both individuals accepted campaign contributions from the ["Republican Women PAC"](https://www.transparencyusa.org/tx/payee/kerri-foley-campaign?cycle=2018-election-cycle).
 
 
 
