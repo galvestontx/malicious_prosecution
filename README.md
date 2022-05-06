@@ -67,12 +67,17 @@ $ rustup install VERSION
 
 ---
 
+### County of Leagued Cities Flag
+![image](https://github.com/galvestontx/malicious_prosecution/blob/2ff75c1de085aaf69ccd7643dacdcb993c6a4af4/861919E7-5FB2-42E8-A61F-A0876BABC6AC.jpeg)
+
+---
+
 ### HISTORY OF GALVESTON COUNTY | MALICIOUS PROSECUTION 
 ##
 A fifteen-month investigation of Galveston County revealed that thousands of people are locked away each year, without a hearing, simply because they cannot afford to pay money bail. The practice perpetuates a two-tiered and unconstitutional wealth-based incarceration system that devastates individuals, their families and their communities. Those who cannot afford bail must remain in jail for considerable periods of time, leading many to lose their jobs, their homes, and their children. As a result, defendants often plead guilty to the crimes of which they are charged, not because they are guilty, but because it’s the fastest way out of jail, and they are desperate to return to their communities.
 [see lawsuit](https://www.aclutx.org/sites/default/files/field_documents/pi_motion._booth.pdf)
 
-
+---
 ***Facts:*** Galveston County has a history of criminalizing poverty. The documents on this page is evidence of the latest acts of terror the Galveston County Government has waged against persons that do not have access to the financial system, thus cannot hire defense.  These acts are inflicted upon tens of thousands of people every year in Galveston County alone. 
 
 > According to Galveston County District Attorney’s official website, Jack Roady “serves alongside a team of 41 assistant district attorneys, 6 peace officers, and 25 support staff, who together prosecute more than 10,000 misdemeanor and felony cases each year in Galveston County”.
@@ -98,10 +103,6 @@ We now have individuals running the state that are convinced it is alright to in
 
 * Recently Twitter blocked me from the account established for this page before I had the chance to make a single post. If the FTC fails to enforce antitrust policy within 90 days, a call for protest and demand for the immediate seizure all the company assets will be published. In the mean time im looking into viable alternatives such as Vkontakte or odnoklassniki. It is sad that we now have to rely on foreign social media platforms to communicate. That's the United State's of America in the year 2022, with "freedom of the press" as the only profession explicitly mentioned in the constitution by name. Not to worry, we are in good hands, the Harris Administration established ["A government agency creating a “ministry of truth” to combat what it deems misinformation? And it’s going to fall under the leadership of DHS Secretary Alejandro Mayorkas?](https://thehill.com/opinion/white-house/3472878-joe-bidens-ministry-of-truth/) What could possibly go wrong...Right?
 
-
----
-### County of Leagued Cities Flag
-![image](https://github.com/galvestontx/malicious_prosecution/blob/2ff75c1de085aaf69ccd7643dacdcb993c6a4af4/861919E7-5FB2-42E8-A61F-A0876BABC6AC.jpeg)
 
 ---
 
