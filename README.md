@@ -79,11 +79,11 @@ A fifteen-month investigation of Galveston County revealed that thousands of peo
 
 [Official Webpage](https://www.galvestoncountytx.gov/our-county/district-attorney)
 
-> The official website further states “The primary duty of the prosecutor is not to convict, but to see that justice is done”. Let's take a look at Jack Roady's definition of Justice.
+> The official website further states “The primary duty of the prosecutor is not to convict, but to see that justice is done”. Let's examine Jack Roady's definition of Justice.
 
 [Official Webpage](https://www.galvestoncountytx.gov/our-county/district-attorney/district-attorney-s-office)
 
-We now have individuals running the state that are convinced it is alright to interfere in the private affairs of a family, by framing one party with a crime in order to strip the person of any right and enforce an illegal eviction. Im certain these people will be punished according to their involvement. Such justice is not possible in Texas court's...made clear by this case. The false testimony submitted by persons named in the above [document](https://drive.google.com/file/d/1e-7dWshR_VGjhiRWMwYHnGV6fxh7-knF/view?usp=drivesdk) is of little concern (as it is expected), my primary concern is the government response.
+We now have individuals running the state that are convinced it is alright to interfere in the private affairs of a family, by framing one party with a crime in order to strip the person of any right and enforce an illegal eviction. Im certain these people will be punished according to their involvement. Such justice is not possible in Texas court's...made clear by this case. The false testimony submitted by persons named in the above [document](https://drive.google.com/file/d/1A6vn3HHm6z-dXNBUNmM8QrHjJHQ0nHx1/view?usp=drivesdk) is of little concern (as it is expected), my primary concern is the government response.
 
 ---
 ### Upcoming Online Petitions & Event Log
