@@ -28,7 +28,7 @@ Hatem T. Alghuti (April 26, 2022)
 ***Signed|*** Hatem T. Alghuti (May 4, 2022) 
 ```
 
-***Note*** the governance of this institution is embedded, to be gifted to directly to the people it serves with no intermediary. Those who accept are welcome, those that reject for free to do so, and may continue to live as they deem appropriate. There is no coercion, if such a structure is not more beneficial than what they have, I encourage them to leave it for something better.
+***Note*** the governance of this institution is embedded, to be gifted to directly to the people it serves with no intermediary. Those who accept are welcome, those that reject are free to do so, and may continue to live under whatever structure they deem appropriate. There is no coercion, if such a structure is not more beneficial than what is available, It is encouraged to leave it for that which serves them better.
 * Petition for the Annexation of cities located within ****Precinct 1***, ***Precinct 3***, and ***Precinct 4***, as a county separate from Galveston County will be uploaded before June 2022.
 * We will be reaching out to respective commissioner's in the coming weeks.
 
