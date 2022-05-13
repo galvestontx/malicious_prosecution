@@ -12,7 +12,7 @@ Hatem T. Alghuti (April 26, 2022)
 
 * All evidence supporting the summary in ***File 1 of 9*** are attached as Exhibit's 1 through 10A - including the police statements, which are attached as Exhibit 3-6. The [audio](https://github.com/galvestontx/malicious_prosecution/blob/cee3feb0e13e67209791023ee602ef2bd3e9ee39/First_Call.m4a) of the Emergency Call Transcription (Exhibit-A transcription) is now available for download. 
 * ***File 2 of 9*** supplements the first file, and includes evidence the court already convicted Alghuti of a crime prior to the first setting scheduled on May 6, 2022. This is the result of deliberately intermingling the civil case with the criminal charges. 
-* ***New Development*** : ***File 3 of 9*** Analyzes the reason Hatem Alghuti was arrested on May 6 2022 (for the third time) and held for almost a week at the county concentration camp. Hatem Alghuti refused food for almost a week, and suffered as a result of the third wave of county terror. Alghuti is waiting to receive papers from the court, and still unaware why he was arrested inside of the courtroom, during the first setting for the case enumerated in file 1 of 9.
+* ***New Development*** : ***File 3 of 9*** Analyzes the reason Hatem Alghuti was arrested on May 6 2022 (for the third time) and held for almost a week at the county concentration camp. Hatem Alghuti refused food for almost a week, and suffered as a result of the third wave of county terror. Alghuti is waiting to receive papers from the court, and still unaware why he was arrested inside of the courtroom, during the first setting for the case enumerated in file 1 of 9. These events have come as a surprise to many who know Hatem, known for his shy, and non confrontational personality. 
 
 
 ---
@@ -35,9 +35,8 @@ Hatem T. Alghuti (April 26, 2022)
 ```
 ---
 ***Note*** the governance of this institution is embedded with no intermediary, to be gifted directly to the people it has been established to serve. Those who accept are welcome, those that reject are free to do so, and may continue to live under whatever structure they deem appropriate. There is no coercion, if such a structure is not more beneficial than what is available, It is encouraged to leave it for whatever serves them better. The Government of Galveston County, and by extension... the Government of the State of Texas, and the United States have made it clear to me they have nothing but destruction and decadence to offer. 
-* Petition for the Annexation of cities located within ****Precinct 1***, ***Precinct 3***, and ***Precinct 4***, as a county separate from Galveston County will be uploaded before June 2022.
+* Petition for the Annexation of cities located within ****Precinct 1***, ***Precinct 3***, and ***Precinct 4***, as a county separate from Galveston County will be uploaded before June 2022. This local intervention is in response to Galveston County corruption ... which has become grossly overbearing.
 * We will be reaching out to respective commissioner's in the coming weeks.
-* This local intervention is in response to Galveston County corruption ... which has become grossly overbearing.
 
 Click [here](https://arcg.is/0GGLzO) to see interactive map.
 ##
