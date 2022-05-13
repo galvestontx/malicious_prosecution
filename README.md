@@ -23,25 +23,29 @@ Hatem T. Alghuti (April 26, 2022)
 
 # THE COUNTY OF LEAGUED CITIES
 
+
+![image](https://github.com/galvestontx/malicious_prosecution/blob/2ff75c1de085aaf69ccd7643dacdcb993c6a4af4/861919E7-5FB2-42E8-A61F-A0876BABC6AC.jpeg)
+##
+
 ***"We the People of the United States of North America, in Order to form a more perfect Union, establish Justice, insure domestic Tranquility, provide for the common defense, promote the general Welfare, and secure the Blessings of Liberty and property to ourselves and our Posterity, do ordain and establish The County of Leagued Cities."***
 
 ```
 ***Signed|*** Hatem T. Alghuti (May 4, 2022) 
 ```
-
+---
 ***Note*** the governance of this institution is embedded with no intermediary, to be gifted directly to the people it has been established to serve. Those who accept are welcome, those that reject are free to do so, and may continue to live under whatever structure they deem appropriate. There is no coercion, if such a structure is not more beneficial than what is available, It is encouraged to leave it for whatever serves them better. The Government of Galveston County, and by extension... the Government of the State of Texas, and the United States have made it clear to me they have nothing but destruction and decadence to offer. 
 * Petition for the Annexation of cities located within ****Precinct 1***, ***Precinct 3***, and ***Precinct 4***, as a county separate from Galveston County will be uploaded before June 2022.
 * We will be reaching out to respective commissioner's in the coming weeks.
 * If these precincts do not wish for me to interfere with their governance, they must not interfere in the private affairs of my household. Unfortunately, the corruption of the county government has become grossly overbearing.. far exceeding my tolerance threshold.
 
 Click [here](https://arcg.is/0GGLzO) to see interactive map.
-
+##
 Precinct 1- Green |
 Precinct 3- Blue  |
 Precinct 4- Red   |
 
 ![image](https://github.com/galvestontx/malicious_prosecution/blob/046727d30c7ab9ae9781c471d6efb370927d5b21/968E81F4-6470-4301-A73F-DCFD81314ABA.jpeg)
-
+##
 
 This ***GalvestonTx Page*** and ***GalvestonTx.co*** website is ***NOT*** affiliated in anyway with the government of Galveston County…as it is known. ***Galvestontx.co aims to use this page to encourage other’s who have been terrorized by the county to actively replace certain functions of the county and state "governments" with distributed ledger technology.*** Any content produced by GalvestonTx.co or developer resources that GalvestonTx.co provides are for educational and inspirational purposes only.
 
@@ -66,15 +70,7 @@ When building a specific release branch, you should check the rust version in ci
 ```
 $ rustup install VERSION
 ```
-
-
 ---
-
-### County of Leagued Cities Flag
-![image](https://github.com/galvestontx/malicious_prosecution/blob/2ff75c1de085aaf69ccd7643dacdcb993c6a4af4/861919E7-5FB2-42E8-A61F-A0876BABC6AC.jpeg)
-
----
-
 ### HISTORY OF GALVESTON COUNTY | MALICIOUS PROSECUTION 
 ##
 A fifteen-month investigation of Galveston County revealed that thousands of people are locked away each year, without a hearing, simply because they cannot afford to pay money bail. The practice perpetuates a two-tiered and unconstitutional wealth-based incarceration system that devastates individuals, their families and their communities. Those who cannot afford bail must remain in jail for considerable periods of time, leading many to lose their jobs, their homes, and their children. As a result, defendants often plead guilty to the crimes of which they are charged, not because they are guilty, but because it’s the fastest way out of jail, and they are desperate to return to their communities.
