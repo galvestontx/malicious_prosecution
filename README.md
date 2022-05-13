@@ -104,9 +104,6 @@ We now have individuals running the state that are convinced it is alright to in
 
 
 ---
-#### Important Note 
-The Settlement option below is neither an option nor will it be accepted following Alghuti's arrest (for the third time) on 5/6/22, where he was held for almost a week at the county concentration camps - a vicious retaliation for making this page public. If you currently live in Galveston County it is advised that you relocate your address outside of the boundaries claimed by the county. God is Just... No further comment. The information below is kept for the record.
-##
 ***Early Settlement Option - Galveston County***
 
 
