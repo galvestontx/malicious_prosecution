@@ -10,8 +10,9 @@ Hatem T. Alghuti (April 26, 2022)
 
 ***Warning:*** please be advised foul language is used in these [statements](https://drive.google.com/file/d/1A6vn3HHm6z-dXNBUNmM8QrHjJHQ0nHx1/view?usp=drivesdk), which some may find offensive...myself included. I decided to make information public to prevent the same from happening to other's. So long as no one knows what is taking place at Galveston County and elsewhere, and the public rely solely on the falsified information published in court records, nothing will prevent these criminals from engaging in the same harmful activity.  
 
-* ***File 2 of 9*** supplement's ***File 1 of 9***. All evidence is provided in the file - including the police statements, which are attached as Exhibit 3-6 in ***File 1 of 9***, and the [audio](https://github.com/galvestontx/malicious_prosecution/blob/cee3feb0e13e67209791023ee602ef2bd3e9ee39/First_Call.m4a) of the Emergency Call Transcription (Exhibit-A transcription) now available for download. 
-* ***File 2 of 9*** includes evidence the court already convicted Alghuti of a crime prior to the first setting scheduled on May 6, 2022. This is a result of deliberately intermingling the civil case with the criminal charges. 
+* All evidence supporting the summary in ***File 1 of 9*** are attached as Exhibit's 1 through 10A - including the police statements, which are attached as Exhibit 3-6. The [audio](https://github.com/galvestontx/malicious_prosecution/blob/cee3feb0e13e67209791023ee602ef2bd3e9ee39/First_Call.m4a) of the Emergency Call Transcription (Exhibit-A transcription) is now available for download. 
+* ***File 2 of 9*** supplements the first file, and includes evidence the court already convicted Alghuti of a crime prior to the first setting scheduled on May 6, 2022. This is the result of deliberately intermingling the civil case with the criminal charges. 
+* ***New Development*** : ***File 3 of 9*** Analyzes the reason Hatem Alghuti was arrested on 5/6/22 (for the third time) and held for almost a week in prison. Im waiting on papers from the court, and still unaware why i was arrested in court, during the scheduled first setting. 
 
 
 ---
