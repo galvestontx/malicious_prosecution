@@ -72,7 +72,7 @@ $ rustup install VERSION
 ```
 ---
 ### 2. Invite Family & Friends to Discuss The History of Galveston County 
-* Invite Survivors of the Galveston County Concentration Camps to Speak at your Schools about the importance of Denazifying our Communities  
+> Invite Survivors of the Galveston County Concentration Camps to Speak at your Schools about the importance of Denazifying our Communities  
 ##
 A fifteen-month investigation of Galveston County revealed that thousands of people are locked away each year, without a hearing, simply because they cannot afford to pay money bail. The practice perpetuates a two-tiered and unconstitutional wealth-based incarceration system that devastates individuals, their families and their communities. Those who cannot afford bail must remain in jail for considerable periods of time, leading many to lose their jobs, their homes, and their children. As a result, defendants often plead guilty to the crimes of which they are charged, not because they are guilty, but because it’s the fastest way out of jail, and they are desperate to return to their communities.
 [see lawsuit](https://www.aclutx.org/sites/default/files/field_documents/pi_motion._booth.pdf)
