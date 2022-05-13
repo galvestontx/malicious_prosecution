@@ -36,7 +36,7 @@ Hatem T. Alghuti (April 26, 2022)
 ---
 ***Note*** the governance of this institution is embedded with no intermediary, to be gifted directly to the people it has been established to serve. Those who accept are welcome, those that reject are free to do so, and may continue to live under whatever structure they deem appropriate. There is no coercion, if such a structure is not more beneficial than what is available, It is encouraged to leave it for whatever serves them better. The Government of Galveston County, and by extension... the Government of the State of Texas, and the United States have made it clear to me they have nothing but destruction and decadence to offer. 
 * Petition to Annex cities located within ****Precinct 1***, ***Precinct 3***, and ***Precinct 4***, as a county separate from Galveston County will be uploaded before June 2022. This local intervention is in response to Galveston County corruption ... which has become grossly overbearing.
-* Petition to rename the Galveston Causeway Alghuti Toll Road. Fee's collected will be used to pay restitution to Hatem Alghuti and the thousands of victims who have yet to be heard. 
+* Petition to rename the Galveston Causeway — Alghuti Toll Road. Fee's collected will be used to pay restitution to Hatem Alghuti and the thousands of victims who have yet to be heard. 
 * We will be reaching out to respective commissioner's in the coming weeks.
 
 Click [here](https://arcg.is/0GGLzO) to see interactive map.
