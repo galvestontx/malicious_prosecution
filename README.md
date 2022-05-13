@@ -12,7 +12,7 @@ Hatem T. Alghuti (April 26, 2022)
 
 * All evidence supporting the summary in ***File 1 of 9*** are attached as Exhibit's 1 through 10A - including the police statements, which are attached as Exhibit 3-6. The [audio](https://github.com/galvestontx/malicious_prosecution/blob/cee3feb0e13e67209791023ee602ef2bd3e9ee39/First_Call.m4a) of the Emergency Call Transcription (Exhibit-A transcription) is now available for download. 
 * ***File 2 of 9*** supplements the first file, and includes evidence the court already convicted Alghuti of a crime prior to the first setting scheduled on May 6, 2022. This is the result of deliberately intermingling the civil case with the criminal charges. 
-* ***New Development*** : ***File 3 of 9*** Analyzes the reason Hatem Alghuti was arrested on May 6 2022 (for the third time) and held for almost a week in county jail (refused food for the entire time I was detained). Im waiting to receive papers from the court, and still unaware why i was arrested in court, during the scheduled first setting. 
+* ***New Development*** : ***File 3 of 9*** Analyzes the reason Hatem Alghuti was arrested on May 6 2022 (for the third time) and held for almost a week at the county concentration camp (refused food for the entire time I was detained). Im waiting to receive papers from the court, and still unaware why i was arrested in court, during the scheduled first setting. 
 
 
 ---
