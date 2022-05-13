@@ -71,7 +71,7 @@ When building a specific release branch, you should check the rust version in ci
 $ rustup install VERSION
 ```
 ---
-### HISTORY OF GALVESTON COUNTY 
+### 2. Invite Family & Friends to Discuss The History of Galveston County 
 ##
 A fifteen-month investigation of Galveston County revealed that thousands of people are locked away each year, without a hearing, simply because they cannot afford to pay money bail. The practice perpetuates a two-tiered and unconstitutional wealth-based incarceration system that devastates individuals, their families and their communities. Those who cannot afford bail must remain in jail for considerable periods of time, leading many to lose their jobs, their homes, and their children. As a result, defendants often plead guilty to the crimes of which they are charged, not because they are guilty, but because it’s the fastest way out of jail, and they are desperate to return to their communities.
 [see lawsuit](https://www.aclutx.org/sites/default/files/field_documents/pi_motion._booth.pdf)
@@ -90,7 +90,7 @@ A fifteen-month investigation of Galveston County revealed that thousands of peo
 We now have individuals running the state that are convinced it is alright to interfere in the private affairs of a family, by framing one party with a crime in order to strip the person of any right and enforce an illegal eviction. Im certain these people will be punished according to their involvement. Such justice is not possible in Texas court's...made clear by this case. The false testimony submitted by persons named in the above [document](https://drive.google.com/file/d/1A6vn3HHm6z-dXNBUNmM8QrHjJHQ0nHx1/view?usp=drivesdk) is of little concern (as it is expected), my primary concern is the government response.
 
 ---
-### Upcoming Online Petitions & Event Log
+### 3. Sign & Share Upcoming Online Petitions
 ##
 ***Note:*** no action stated in below petitions will replace the irrevocable demands and terms set by Alghuti (will be published in file 9 of 9). If it is found that the conduct of attorney’s, judges, officers, and other officials (elected by interests) involved in this case are considered "legal", it is evidence of an illegitimate legal system, and it is a duty to abolish it entirely.  
 
