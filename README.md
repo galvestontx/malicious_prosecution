@@ -21,7 +21,7 @@ Hatem T. Alghuti (April 26, 2022)
 * ***[1 of 9](https://drive.google.com/file/d/1kcSdHEEKjGkIfb6JfCF1ofDCBqTJeDtI/view?usp=drivesdk)*** | has been uploaded...after the eight remaining files are uploaded, ***Galvestontx.co*** will begin development of a DApp to supplant the county and state governments within two years, and invite everyone to join.
 * ***2 of 9*** | ***Guilty Until Proven Otherwise*** - Galveston County Practices (***Pending***)
 * Im currently ironing out strategic partnerships - to set up in person or virtual workshops / camps for training an army of programmer's, Cloud Architects, cyber warrior to build and secure our future. The training will be free of charge. Expect an announcement May-June.
-* I pledge to devise incentive programs, and develop systems and tools required to eliminate the use of divorce attorney's for dissolving a marriage (in the County and elsewhere) within two years.
+* I pledge to devise incentive programs, and develop systems and tools required to eliminate the use of divorce attorney's for dissolving a marriage (in the County and elsewhere) within two years... So Will It God.
 ##
 
 # THE COUNTY OF LEAGUED CITIES
