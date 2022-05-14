@@ -19,7 +19,7 @@ Hatem T. Alghuti (April 26, 2022)
 
 
 ---
-***Upcoming Schedule***
+***Roll-Out Schedule***
 ##
 * ***[1 of 9](https://drive.google.com/file/d/1kcSdHEEKjGkIfb6JfCF1ofDCBqTJeDtI/view?usp=drivesdk)*** | has been uploaded...after the eight remaining files are uploaded, ***Galvestontx.co*** will begin development of a DApp to supplant the county and state governments within two years, and invite everyone to join.
 * ***2 of 9*** | ***Guilty Until Proven Otherwise*** - Galveston County Practices (***Pending***)
