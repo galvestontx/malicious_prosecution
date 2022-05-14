@@ -20,7 +20,7 @@ Hatem T. Alghuti (April 26, 2022)
 ##
 * ***[1 of 9](https://drive.google.com/file/d/1kcSdHEEKjGkIfb6JfCF1ofDCBqTJeDtI/view?usp=drivesdk)*** | has been uploaded...after the eight remaining files are uploaded, ***Galvestontx.co*** will begin development of a DApp to supplant the county and state governments within two years, and invite everyone to join.
 * ***2 of 9*** | ***Guilty Until Proven Otherwise*** - Galveston County Practices (***Pending***)
-* At the time of this writing, one strategic partnership has been established with a blockchain/ programming bootcamp instructor - to set up in-person or virtual workshops / camps to train the army of blockchain developers, Cloud Architects, and cyber warrior required to build and secure our future. The training will be free of charge. Expect an announcement late May-June.
+* At the time of this writing, one strategic partnership has been established with a blockchain/ programming bootcamp instructor - to set up in-person or virtual workshops / camps to train the army of blockchain developers, Cloud Architects, and cyber warriors needed to build and secure our future. The training will be free of charge. Expect an announcement late May-June. I will begin by posting some training material for non locals visiting this page who wish to open a chapter in their locality.
 
 ##
 
