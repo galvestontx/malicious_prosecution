@@ -48,6 +48,7 @@ If you are a developer or have other skills you wish to contribute to further th
 ***Training For Beginners***
 
 [Rust in Replit Slides](https://docs.google.com/presentation/d/1k2kPfrLunscHV4n-4IoC3D78dNR6R1Rhdi039PCG-Wk/mobilepresent?slide=id.geaf74fd2d3_0_1)
+
 For the training course, you will be using [this GitHub repository](https://github.com/freeCodeCamp/Rust-In-Replit/) as a boilerplate.  In Replit, click the RUN button, and follow the instructions given.
 
 
