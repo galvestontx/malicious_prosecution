@@ -10,6 +10,11 @@ Hatem T. Alghuti (April 26, 2022)
 
 ***Warning:*** please be advised foul language is used in these [statements](https://drive.google.com/file/d/1A6vn3HHm6z-dXNBUNmM8QrHjJHQ0nHx1/view?usp=drivesdk), which some may find offensive...myself included. I decided to make information public to prevent the same from happening to other's. So long as no one knows what is taking place at Galveston County and elsewhere, and the public rely solely on the falsified information published in court records, nothing will prevent these criminals from engaging in the same harmful activity.  
 
+***Advanced Thanks to Anonymous, Code Camp Volunteers and Partners***
+
+> ***[1 of 9](https://drive.google.com/file/d/1kcSdHEEKjGkIfb6JfCF1ofDCBqTJeDtI/view?usp=drivesdk)*** | has been uploaded...after the eight remaining files are uploaded, ***Galvestontx.co*** will begin development of a ***DApp*** to supplant the county and state governments within two years, and invite everyone to join. See training material below Roll-Out Schedule.
+
+
 ***FILES 1 THROUGH 9***
 * All evidence supporting the summary in ***File 1 of 9*** is attached therein as ***Exhibit A*** through ***10B*** - including the police statements, which are attached as ***Exhibit 3-6***. The [audio](https://github.com/galvestontx/malicious_prosecution/blob/cee3feb0e13e67209791023ee602ef2bd3e9ee39/First_Call.m4a) of the Emergency Call Transcription (Exhibit-A transcription) is now available for download. 
 
@@ -26,7 +31,6 @@ At the time of this writing, one strategic partnership has been established with
 
 Training material will be uploaded for non locals visiting this page who wish to implement a branch/ chapter for their respective locality.
 
-* ***[1 of 9](https://drive.google.com/file/d/1kcSdHEEKjGkIfb6JfCF1ofDCBqTJeDtI/view?usp=drivesdk)*** | has been uploaded...after the eight remaining files are uploaded, ***Galvestontx.co*** will begin development of a ***DApp*** to supplant the county and state governments within two years, and invite everyone to join.
 * ***2 of 9*** | ***Guilty Until Proven Otherwise*** - Galveston County Practices (***Pending***)
 
 
