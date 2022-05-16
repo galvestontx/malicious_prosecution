@@ -50,8 +50,6 @@ Training For Beginners
 
 
 
-***Join The Fight Against Galveston DA Office And Other Terrorist Organizations***
-
 ---
 ## Building
 
