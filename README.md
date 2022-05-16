@@ -35,7 +35,7 @@ Training material will be uploaded for non locals visiting this page who wish to
 
 ---
 ## CodeCamp — Coalition of the Willing 
-***Join The Fight Against Galveston DA Office And Other Terrorist Organizations***
+***Learn a Skill And Join The Fight Against Galveston DA Office And Other Terrorist Organizations***
 ##
 
 Training For Beginners 
