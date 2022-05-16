@@ -34,7 +34,8 @@ Training material will be uploaded for non locals visiting this page who wish to
 * ***2 of 9*** | ***Guilty Until Proven Otherwise*** - Galveston County Practices (***Pending***)
 
 ---
-### CodeCamp — Join The Fight Against Galveston DA Office
+## CodeCamp — Coalition of the Willing 
+***Join The Fight Against Galveston DA Office And Other Terrorist Organizations***
 ##
 
 Training For Beginners 
