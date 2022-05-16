@@ -73,9 +73,6 @@ $ rustup install VERSION
 ```
 ---
 
-
-##
-
 # THE COUNTY OF LEAGUED CITIES
 
 
