@@ -12,7 +12,7 @@ Hatem T. Alghuti (April 26, 2022)
 
 ***Advanced Thanks to Anonymous, Code Camp Volunteers and Partners***
 
-> ***[File - 1 of 9](https://drive.google.com/file/d/1kcSdHEEKjGkIfb6JfCF1ofDCBqTJeDtI/view?usp=drivesdk)*** | has been uploaded...after the eight remaining files are uploaded, ***Galvestontx.co*** will begin development of a ***DApp*** to supplant the county and state governments within two years, and invite everyone to join. See training material below Roll-Out Schedule.
+> ***[File - 1 of 9](https://drive.google.com/file/d/1kcSdHEEKjGkIfb6JfCF1ofDCBqTJeDtI/view?usp=drivesdk)*** has been uploaded...after the eight remaining files are uploaded, ***Galvestontx.co*** will begin development of a ***DApp*** to supplant the county and state governments within two years, and invite everyone to join. See training material below Roll-Out Schedule.
 
 
 ***FILES 1 THROUGH 9***
