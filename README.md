@@ -24,21 +24,33 @@ Hatem T. Alghuti (April 26, 2022)
 
 
 ---
-***Roll-Out Schedule***
+## Roll-Out Schedule
 ##
 
 At the time of this writing, one strategic partnership has been established with a blockchain/ programming bootcamp instructor - to set up in-person or virtual workshops / camps to train the army of blockchain developers, Cloud Architects, and cyber warriors needed to build and secure our future. The training will be free of charge. Expect an announcement late May-June. 
 
 Training material will be uploaded for non locals visiting this page who wish to implement a branch/ chapter for their respective locality.
 
-* ***2 of 9*** | ***Guilty Until Proven Otherwise*** - Galveston County Practices (***Pending***)
+* ***File - 2 of 9*** | ***Guilty Until Proven Otherwise*** - Galveston County Practices (***Pending***)
 
 ---
 ## CodeCamp — Coalition Of The Willing 
-***Learn a Skill And Join The Fight Against Galveston DA Office And Other Terrorist Organizations***
+
+
+This ***GalvestonTx Page*** and ***GalvestonTx.co*** website is ***NOT*** affiliated in anyway with the government of Galveston County…as it is known. ***Galvestontx.co aims to use this page to encourage other’s who have been terrorized by the county to actively replace (or 'denazify') certain functions of the county and state "governments" with distributed ledger technology.*** Any content produced by GalvestonTx.co or developer resources that GalvestonTx.co provides are for educational and inspirational purposes only.
+
+If you are a developer or have other skills you wish to contribute to further this noble effort please email inspector.general@galvestontx.co .
+Hundreds if not Thousands of pages and documents will be released on this page throughout the year. Social media link will be provided for those wishing to connect.
+
+
 ##
 
 Training For Beginners 
+
+
+
+
+***Join The Fight Against Galveston DA Office And Other Terrorist Organizations***
 
 ---
 ## Building
@@ -88,11 +100,6 @@ Precinct 4- Red   |
 
 ![image](https://github.com/galvestontx/malicious_prosecution/blob/046727d30c7ab9ae9781c471d6efb370927d5b21/968E81F4-6470-4301-A73F-DCFD81314ABA.jpeg)
 ##
-
-This ***GalvestonTx Page*** and ***GalvestonTx.co*** website is ***NOT*** affiliated in anyway with the government of Galveston County…as it is known. ***Galvestontx.co aims to use this page to encourage other’s who have been terrorized by the county to actively replace (or 'denazify') certain functions of the county and state "governments" with distributed ledger technology.*** Any content produced by GalvestonTx.co or developer resources that GalvestonTx.co provides are for educational and inspirational purposes only.
-
-If you are a developer or have other skills you wish to contribute to further this noble effort please email inspector.general@galvestontx.co .
-Hundreds if not Thousands of pages and documents will be released on this page throughout the year. Social media link will be provided for those wishing to connect.
 
 ### 2. Invite Family & Friends to Discuss the History of Galveston County 
 > Invite Survivors of the Galveston County Concentration Camps to Speak at your Schools about the importance of 'Denazifying' our Communities (invitation should be every year, the week of June 19th).
