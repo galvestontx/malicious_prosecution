@@ -12,7 +12,7 @@ Hatem T. Alghuti (April 26, 2022)
 
 ***Advanced Thanks to Anonymous, Code Camp Volunteers and Partners***
 
-> ***[1 of 9](https://drive.google.com/file/d/1kcSdHEEKjGkIfb6JfCF1ofDCBqTJeDtI/view?usp=drivesdk)*** | has been uploaded...after the eight remaining files are uploaded, ***Galvestontx.co*** will begin development of a ***DApp*** to supplant the county and state governments within two years, and invite everyone to join. See training material below Roll-Out Schedule.
+> ***[File - 1 of 9](https://drive.google.com/file/d/1kcSdHEEKjGkIfb6JfCF1ofDCBqTJeDtI/view?usp=drivesdk)*** | has been uploaded...after the eight remaining files are uploaded, ***Galvestontx.co*** will begin development of a ***DApp*** to supplant the county and state governments within two years, and invite everyone to join. See training material below Roll-Out Schedule.
 
 
 ***FILES 1 THROUGH 9***
@@ -39,7 +39,25 @@ Training material will be uploaded for non locals visiting this page who wish to
 
 Training For Beginners 
 
+---
+## Building
 
+### 1. Install rustc, cargo and rustfmt.
+```
+$ curl https://sh.rustup.rs -sSf | sh
+$ source $HOME/.cargo/env
+$ rustup component add rustfmt
+```
+
+When building the master branch, please make sure you are using the latest stable rust version by running:
+```
+$ rustup update
+```
+When building a specific release branch, you should check the rust version in ci/rust-version.sh and if necessary, install that version by running:
+```
+$ rustup install VERSION
+```
+---
 
 
 ##
@@ -75,25 +93,6 @@ This ***GalvestonTx Page*** and ***GalvestonTx.co*** website is ***NOT*** affili
 If you are a developer or have other skills you wish to contribute to further this noble effort please email inspector.general@galvestontx.co .
 Hundreds if not Thousands of pages and documents will be released on this page throughout the year. Social media link will be provided for those wishing to connect.
 
----
-## Building
-
-### 1. Install rustc, cargo and rustfmt.
-```
-$ curl https://sh.rustup.rs -sSf | sh
-$ source $HOME/.cargo/env
-$ rustup component add rustfmt
-```
-
-When building the master branch, please make sure you are using the latest stable rust version by running:
-```
-$ rustup update
-```
-When building a specific release branch, you should check the rust version in ci/rust-version.sh and if necessary, install that version by running:
-```
-$ rustup install VERSION
-```
----
 ### 2. Invite Family & Friends to Discuss the History of Galveston County 
 > Invite Survivors of the Galveston County Concentration Camps to Speak at your Schools about the importance of 'Denazifying' our Communities (invitation should be every year, the week of June 19th).
 ##
