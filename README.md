@@ -40,7 +40,7 @@ Training material will be uploaded for non locals visiting this page who wish to
 This ***GalvestonTx Page*** and ***GalvestonTx.co*** website is ***NOT*** affiliated in anyway with the government of Galveston County…as it is known. ***Galvestontx.co aims to use this page to encourage other’s who have been terrorized by the county to actively replace (or 'denazify') certain functions of the county and state "governments" with distributed ledger technology.*** Any content produced by GalvestonTx.co or developer resources that GalvestonTx.co provides are for educational and inspirational purposes only. Hundreds if not Thousands of pages and documents will be released on this page throughout the year. Social media link will be provided for those wishing to connect.
 
 
-If you are a developer or have other skills you wish to contribute to further this noble effort please email inspector.general@galvestontx.co -or- begin training Join The Fight Against Galveston DA Office And Other Terrorist Organizations today!
+If you are a developer or have other skills you wish to contribute to further this noble effort please email inspector.general@galvestontx.co -or- begin training and  Join The Fight Against Galveston DA Office And Other Terrorist Organizations today!
 
 
 ##
