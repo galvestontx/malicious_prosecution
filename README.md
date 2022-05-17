@@ -51,7 +51,7 @@ If you are a developer or have other skills you wish to contribute to further th
 
 * For the training course, you will be using [this GitHub repository](https://github.com/freeCodeCamp/Rust-In-Replit/) as a boilerplate.  In Replit, click the RUN button, and follow the instructions given.
 
-
+* ***Video*** - [Rust Programming Course for Beginners - Tutorial](https://youtu.be/MsocPEZBd-M)
 
 ---
 ## Building
