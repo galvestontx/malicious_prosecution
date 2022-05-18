@@ -32,7 +32,7 @@ At the time of this writing, one strategic partnership has been established with
 Training material will be uploaded for non locals visiting this page who wish to implement a branch/ chapter for their respective locality.
 ##
 * ***File - 2 of 9*** | ***Guilty Until Proven Otherwise*** - Galveston County Practices (***Pending***)
-
+* Currently Compiling List of Churches. We will reach out to these [1,080 Islamic Center's](https://github.com/galvestontx/malicious_prosecution/blob/5b33eeb149fcb2af408f1f26f0525b3472234a8c/1080_CallList.csv) once phase one is complete
 ---
 ## CodeCamp — Coalition Of The Willing 
 
