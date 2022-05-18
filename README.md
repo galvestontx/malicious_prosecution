@@ -33,6 +33,9 @@ Training material will be uploaded for non locals visiting this page who wish to
 ##
 * ***File - 2 of 9*** | ***Guilty Until Proven Otherwise*** - Galveston County Practices (***Pending***)
 * We will present how the state courts aim to break up families, all faith traditions are against these policies. Phase one, Record Keeping System for Marriage Certificates, Birth certificates, property deeds. Currently Compiling List of Churches. We will reach out to these [1,080 Islamic Center's](https://github.com/galvestontx/malicious_prosecution/blob/5b33eeb149fcb2af408f1f26f0525b3472234a8c/1080_CallList.csv) once phase one is complete
+* Outreach campaign to people on this [List](https://m.facebook.com/BustedNewspaperGalvestonCountyTx/) lets see what we can dig up. 
+* Prepare exploratory memo for class suit against the Galveston County [for allowing third party private companies to publish mugshots on Facebook- currently being sued for unauthorized use of Biometric Data](https://www.texasattorneygeneral.gov/news/releases/paxton-sues-facebook-using-unauthorized-biometric-data)
+
 ---
 ## CodeCamp — Coalition Of The Willing 
 
