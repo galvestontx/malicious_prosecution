@@ -36,7 +36,7 @@ Training material will be uploaded for non locals visiting this page who wish to
 * ***File 3 of 9*** waiting for Court Papers...
 
 * This case will be used in marketing material to show how the state courts aim to break up families... all faith traditions are against these policies. Phase one, Record Keeping System for Marriage Certificates, Birth certificates, property deeds. ***Currently Compiling List of Churches***, will reach out to these [1,080 Islamic Center's](https://github.com/galvestontx/malicious_prosecution/blob/5b33eeb149fcb2af408f1f26f0525b3472234a8c/1080_CallList.csv) once phase one is complete
-* Analyze cases on this [page](https://m.facebook.com/BustedNewspaperGalvestonCountyTx/) lets see what we can dig up. The objective is to organize information and other resources for organizations to sue the county. 
+* Analyze cases on this [page](https://m.facebook.com/BustedNewspaperGalvestonCountyTx/) lets see what we can dig up. The objective is to organize information and other resources for organizations to sue the county. Feel free to forward this link to media outlets.
 * Will reach out to attorney's to see if they would consider filing a class action lawsuit against the Galveston County for allowing third party private companies to [publish mugshots on Facebook](https://m.facebook.com/BustedNewspaperGalvestonCountyTx/). Texas is [suing Facebook for capturing and using the biometric data](https://www.texasattorneygeneral.gov/news/releases/paxton-sues-facebook-using-unauthorized-biometric-data) without properly obtaining their informed consent to do so. If time permits, i may Prepare exploratory memo.
 
 ---
