@@ -39,6 +39,8 @@ Hatem T. Alghuti (April 26, 2022)
 ```
 ---
 ***Note*** the governance of this institution is embedded with no intermediary, to be gifted directly to the people it has been established to serve. Those who accept are welcome, those that reject are free to do so, and may continue to live under whatever structure they deem appropriate. There is no coercion, if such a structure is not more beneficial than what is available, It is encouraged to leave it for whatever serves them better. The Government of Galveston County, and by extension... the Government of the State of Texas, and the United States have made it clear to me they have nothing but destruction and decadence to offer. 
+
+[Virtual Voting Machine](https://github.com/galvestontx/Autonomous-Self-Administrative-Division/blob/b571cb4fd29d804850c96bdbe0a5ce9bc557bc2e/README.md) (VVM) is currently under development. 
 * Petition to Annex cities located within ****Precinct 1***, ***Precinct 3***, and ***Precinct 4***, as a county separate from Galveston County is scheduled to be uploaded by June 2022 (expect a slight delay due to Alghuti's recent release). This local intervention is in response to the corruption taking place at Galveston County... which has become grossly overbearing.
 * We will be reaching out to respective commissioner's in the coming weeks.
 
@@ -51,7 +53,7 @@ Precinct 4- Red   |
 ![image](https://github.com/galvestontx/malicious_prosecution/blob/046727d30c7ab9ae9781c471d6efb370927d5b21/968E81F4-6470-4301-A73F-DCFD81314ABA.jpeg)
 ##
 
-### 2. Invite Family & Friends to Discuss the History of Galveston County 
+### 1. Invite Family & Friends to Discuss the History of Galveston County 
 > Invite Survivors of the Galveston County Concentration Camps to Speak at your Schools about the importance of 'Denazifying' our Communities (invitation should be every year, the week of June 19th).
 ##
 A fifteen-month investigation of Galveston County revealed that thousands of people are locked away each year, without a hearing, simply because they cannot afford to pay money bail. The practice perpetuates a two-tiered and unconstitutional wealth-based incarceration system that devastates individuals, their families and their communities. Those who cannot afford bail must remain in jail for considerable periods of time, leading many to lose their jobs, their homes, and their children. As a result, defendants often plead guilty to the crimes of which they are charged, not because they are guilty, but because it’s the fastest way out of jail, and they are desperate to return to their communities.
@@ -71,11 +73,9 @@ A fifteen-month investigation of Galveston County revealed that thousands of peo
 We now have individuals running the state that are convinced it is alright to interfere in the private affairs of a family, by framing one party with a crime in order to strip the person of any right and enforce an illegal eviction. Im certain these people will be punished according to their involvement. Such justice is not possible in Texas court's...made clear by this case. The false testimony submitted by persons named in the above [document](https://drive.google.com/file/d/1A6vn3HHm6z-dXNBUNmM8QrHjJHQ0nHx1/view?usp=drivesdk) is of little concern (as it is expected), my primary concern is the government response.
 
 ---
-### 3. Sign & Share Upcoming Online Petitions
+### 2. Sign & Share Upcoming Online Petitions
 ##
 ***Note:*** no action stated in below petitions will replace the irrevocable demands and terms set by Alghuti (will be published in file 9 of 9). If it is found that the conduct of attorney’s, judges, officers, and other officials (elected by interests) involved in this case are considered "legal", it is evidence of an illegitimate legal system, and it is a duty to abolish it entirely.  
-
-[Virtual Voting Machine](https://github.com/galvestontx/Autonomous-Self-Administrative-Division/blob/b571cb4fd29d804850c96bdbe0a5ce9bc557bc2e/README.md) (VVM) is currently under development. 
 
 * Petition for the Annexation of Area 1, 3, 4 into the COUNTY OF LEAGUED CITIES 
 * Petition for the immediate removal of Kerri Foley and all judges involved in this case from the bench, and to bar named judges from any public office or position of trust. The procedure used in this case, as well as actions taken by attorney’s, judges, other officers involved has discredited the judiciary or the administration of justice. This [Commission](http://www.scjc.texas.gov/faq/) has been aware of these practices, and has done nothing. 
@@ -126,7 +126,7 @@ If you are a developer or have other skills you wish to contribute to further th
 ---
 ## Building
 
-### 1. Install rustc, cargo and rustfmt.
+### 3. Install rustc, cargo and rustfmt.
 ```
 $ curl https://sh.rustup.rs -sSf | sh
 $ source $HOME/.cargo/env
