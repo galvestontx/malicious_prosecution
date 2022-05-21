@@ -26,62 +26,6 @@ Hatem T. Alghuti (April 26, 2022)
 * At this stage, Alghuti does not recognize the legitimacy of the Galveston county state court. The events described in File- 1of9 occurred within the confines of Alghuti's residence, and a copy of His Household's Code of Laws has been conveyed to the court. For any event occurring within the confines of HIS residence, the House of Alghuti Code of Laws shall supersede any and all immoral, unconstitutional, oppressive man made laws (including state laws) advocated by radical feminists or other deviant philosophies propagated by ***Edward Bernays***, the man credited for establishing the feminist movement <i> "in order to persuade women to smoke"</i> [10:28](https://youtu.be/DnPmg0R1M04). It would be unimaginable, that such extremist's, who ***Edward Bernays*** referred to as "stupid people" (although he established the movement) would hold any position in a court of Justice. A letter condemning persons engaged in purjury and the state court (for harassment) has been filed.
 * To justify the court's jurisdiction, the judge asked Hatem Alghuti if he is a citizen of the United States (as though their acts are constitutional). Under Religious precepts, Alghuti is authorized to conceal the truth (to divert the aggressor) if his household is attacked, if he is threatened, coerced, or has reason to believe his life is in danger (in this case starvation as a result of hunger strike). In emergency situations, He is permitted to engage in certain acts which otherwise would be prohibited. Emergency powers are activated if certain hostilities are committed against him or his family, or an act of war is committed against the faithful, the innocent, or those who cannot defend themselves against armed oppressors'. 
 
----
-## Roll-Out Schedule
-
-
-At the time of this writing, one strategic partnership has been established with a blockchain/ programming bootcamp instructor - to set up in-person or virtual workshops / camps to train the army of blockchain developers, Cloud Architects, and cyber warriors needed to build and secure our future. The training will be free of charge. Expect an announcement late May-June. 
-
-Training material will be uploaded for non locals visiting this page who wish to implement a branch/ chapter for their respective locality.
-##
-* ***File - 2 of 9*** | ***Guilty Until Proven Otherwise*** - Galveston County Practices (***Pending***)
-
-* ***File 3 of 9*** waiting for Court Papers...
-
-* This case will be used in marketing material to show how the state courts aim to break up families... all faith traditions are against these policies. Phase one, Record Keeping System for Marriage Certificates, Birth certificates, property deeds. ***Currently Compiling List of Churches***, will reach out to these [1,080 Islamic Center's](https://github.com/galvestontx/malicious_prosecution/blob/5b33eeb149fcb2af408f1f26f0525b3472234a8c/1080_CallList.csv) after the completion of the first phase.
-* Analyze cases on this [page](https://m.facebook.com/BustedNewspaperGalvestonCountyTx/) lets see what we can dig up. The objective is to organize information and other resources for organizations to investigate/ sue the county. Feel free to forward this link to media outlets.
-* Will reach out to attorney's to see if they would consider filing a class action lawsuit against the Galveston County for allowing third party private companies to [publish mugshots on Facebook](https://m.facebook.com/BustedNewspaperGalvestonCountyTx/). Texas is [suing Facebook for capturing and using the biometric data](https://www.texasattorneygeneral.gov/news/releases/paxton-sues-facebook-using-unauthorized-biometric-data) without properly obtaining their informed consent to do so. If time permits, i may Prepare exploratory memo.
-
----
-## CodeCamp — Coalition Of The Willing 
-
-
-***Galvestontx.co aims to use this page to encourage other’s who have been terrorized by the county to actively replace (or 'denazify') certain functions of the county and state "governments" with distributed ledger technology.*** Any content produced by GalvestonTx.co or developer resources that GalvestonTx.co provides are for educational and inspirational purposes only. Hundreds if not Thousands of pages and documents will be released on this page throughout the year. Social media link will be provided for those wishing to connect.
-
-
-If you are a developer or have other skills you wish to contribute to further this noble effort please email inspector.general@galvestontx.co -or- begin training and  ***Join The Fight Against Galveston DA Office And Other Terrorist Organizations today!***
-
-
-##
-
-***Training For Beginners***
-
-* [Rust in Replit Slides](https://docs.google.com/presentation/d/1k2kPfrLunscHV4n-4IoC3D78dNR6R1Rhdi039PCG-Wk/mobilepresent?slide=id.geaf74fd2d3_0_1)
-
-* For the training course, you will be using [this GitHub repository](https://github.com/freeCodeCamp/Rust-In-Replit/) as a boilerplate.  In Replit, click the RUN button, and follow the instructions given.
-
-* ***Video*** - [Rust Programming Course for Beginners - Tutorial](https://youtu.be/MsocPEZBd-M)
-
----
-## Building
-
-### 1. Install rustc, cargo and rustfmt.
-```
-$ curl https://sh.rustup.rs -sSf | sh
-$ source $HOME/.cargo/env
-$ rustup component add rustfmt
-```
-
-When building the master branch, please make sure you are using the latest stable rust version by running:
-```
-$ rustup update
-```
-When building a specific release branch, you should check the rust version in ci/rust-version.sh and if necessary, install that version by running:
-```
-$ rustup install VERSION
-```
----
-
 # THE COUNTY OF LEAGUED CITIES
 
 
@@ -144,6 +88,61 @@ We now have individuals running the state that are convinced it is alright to in
 * [See May 6, 2022 Notes](https://github.com/galvestontx/MAY6_2022/blob/c072e83b9cf1a12c562b0a2f0e6b10e836ad5a20/README.md)
 
 ---
+## Roll-Out Schedule
+
+
+At the time of this writing, one strategic partnership has been established with a blockchain/ programming bootcamp instructor - to set up in-person or virtual workshops / camps to train the army of blockchain developers, Cloud Architects, and cyber warriors needed to build and secure our future. The training will be free of charge. Expect an announcement late May-June. 
+
+Training material will be uploaded for non locals visiting this page who wish to implement a branch/ chapter for their respective locality.
+##
+* ***File - 2 of 9*** | ***Guilty Until Proven Otherwise*** - Galveston County Practices (***Pending***)
+
+* ***File 3 of 9*** waiting for Court Papers...
+
+* This case will be used in marketing material to show how the state courts aim to break up families... all faith traditions are against these policies. Phase one, Record Keeping System for Marriage Certificates, Birth certificates, property deeds. ***Currently Compiling List of Churches***, will reach out to these [1,080 Islamic Center's](https://github.com/galvestontx/malicious_prosecution/blob/5b33eeb149fcb2af408f1f26f0525b3472234a8c/1080_CallList.csv) after the completion of the first phase.
+* Analyze cases on this [page](https://m.facebook.com/BustedNewspaperGalvestonCountyTx/) lets see what we can dig up. The objective is to organize information and other resources for organizations to investigate/ sue the county. Feel free to forward this link to media outlets.
+* Will reach out to attorney's to see if they would consider filing a class action lawsuit against the Galveston County for allowing third party private companies to [publish mugshots on Facebook](https://m.facebook.com/BustedNewspaperGalvestonCountyTx/). Texas is [suing Facebook for capturing and using the biometric data](https://www.texasattorneygeneral.gov/news/releases/paxton-sues-facebook-using-unauthorized-biometric-data) without properly obtaining their informed consent to do so. If time permits, i may Prepare exploratory memo.
+
+---
+## CodeCamp — Coalition Of The Willing 
+
+
+***Galvestontx.co aims to use this page to encourage other’s who have been terrorized by the county to actively replace (or 'denazify') certain functions of the county and state "governments" with distributed ledger technology.*** Any content produced by GalvestonTx.co or developer resources that GalvestonTx.co provides are for educational and inspirational purposes only. Hundreds if not Thousands of pages and documents will be released on this page throughout the year. Social media link will be provided for those wishing to connect.
+
+
+If you are a developer or have other skills you wish to contribute to further this noble effort please email inspector.general@galvestontx.co -or- begin training and  ***Join The Fight Against Galveston DA Office And Other Terrorist Organizations today!***
+
+
+##
+
+***Training For Beginners***
+
+* [Rust in Replit Slides](https://docs.google.com/presentation/d/1k2kPfrLunscHV4n-4IoC3D78dNR6R1Rhdi039PCG-Wk/mobilepresent?slide=id.geaf74fd2d3_0_1)
+
+* For the training course, you will be using [this GitHub repository](https://github.com/freeCodeCamp/Rust-In-Replit/) as a boilerplate.  In Replit, click the RUN button, and follow the instructions given.
+
+* ***Video*** - [Rust Programming Course for Beginners - Tutorial](https://youtu.be/MsocPEZBd-M)
+
+---
+## Building
+
+### 1. Install rustc, cargo and rustfmt.
+```
+$ curl https://sh.rustup.rs -sSf | sh
+$ source $HOME/.cargo/env
+$ rustup component add rustfmt
+```
+
+When building the master branch, please make sure you are using the latest stable rust version by running:
+```
+$ rustup update
+```
+When building a specific release branch, you should check the rust version in ci/rust-version.sh and if necessary, install that version by running:
+```
+$ rustup install VERSION
+```
+---
+
 <sup> ***Additional Information***: Hatem Al-Ghuti pledges to convey title to approximately 10,256 square feet (~.2355 acres) of land in League City to the County of Leagued Cities. Title to property had been transferred into a private trust on August 11, 2020 at 5:56 PM for the purpose of securing Alghuti's property from hostile entities. The code securing the title to the property is self executing, thus removing it from Alghuti's direct management. This code will be published after ***File 9 of 9*** is uploaded. The County of Leagued Cities Appraisal District values the property on the land at $367,590 (in-kind exchange) - est. $146.80 per square foot.</sup>
 ##
 <sup> ***Disclaimer:*** A significant portion of this project aims to extend certain legal immunity to persons (in any jurisdiction) working on a project which uses Criterion protocol (refer to whitepaper - Document 5 of 9). Because we are still in the early stages of this development, readers should be aware that U.S. export control and sanctions laws prohibit U.S. persons (and other persons that are subject to such laws) from transacting with persons in certain countries and territories or that are on the SDN list. As a project-based primarily on open-source software, it is possible that such sanctioned persons may nevertheless bypass prohibitions, obtain the code comprising the blockchain protocol (or other project code or applications) and deploy, integrate, or otherwise use it. Accordingly, there is a risk to individuals that other persons using the blockchain protocol may be sanctioned persons and that transactions with such persons would be a violation of U.S. export controls and sanctions law.</sup>
