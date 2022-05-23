@@ -8,6 +8,8 @@ Hatem T. Alghuti (April 26, 2022)
 ```
 ![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)
 
+[REQUEST FOR QUALIFICATIONS](https://github.com/galvestontx/malicious_prosecution/blob/159dc756bb99816b1904110e1e2c1667274e9504/Cover.pdf)
+
 ***Warning:*** please be advised foul language is used in these [statements](https://drive.google.com/file/d/1A6vn3HHm6z-dXNBUNmM8QrHjJHQ0nHx1/view?usp=drivesdk), which some may find offensive...myself included. I decided to make information public to prevent the same from happening to other's. So long as no one knows what is taking place at Galveston County and elsewhere, and the public rely solely on the falsified information published in court records, nothing will prevent these criminals from engaging in the same harmful activity.  
 
 ***Advanced Thanks to Anonymous, Code Camp Volunteers and Partners***
