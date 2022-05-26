@@ -49,7 +49,7 @@ Issuance of 1000 bonds in progress...
 
 ***Note*** the governance of this institution is embedded with no intermediary, to be gifted directly to the people it has been established to serve. Those who accept are welcome, those that reject are free to do so, and may continue to live under whatever structure they deem appropriate. There is no coercion, if such a structure is not more beneficial than what is available, It is encouraged to leave it for whatever serves them better. The Government of Galveston County, and by extension... the Government of the State of Texas, and the United States have made it clear to me they have nothing but destruction and decadence to offer. 
 
-[Virtual Voting Machine](https://github.com/galvestontx/Autonomous-Self-Administrative-Division/blob/b571cb4fd29d804850c96bdbe0a5ce9bc557bc2e/README.md) (VVM) is currently under development. 
+[Virtual Voting Machine](https://github.com/galvestontx/Autonomous-Self-Administrative-Division/blob/557ea56abfc2b3ea40f83f0c95d66c1c0bd18aba/README.md) (VVM) is currently under development. 
 * Petition to Annex cities located within ****Precinct 1***, ***Precinct 3***, and ***Precinct 4***, as a county separate from Galveston County is scheduled to be uploaded by June 2022 (expect a slight delay due to Alghuti's recent release). This local intervention is in response to the corruption taking place at Galveston County... which has become grossly overbearing.
 * We will be reaching out to respective commissioner's in the coming weeks.
 
