@@ -16,6 +16,9 @@ Hatem T. Alghuti (April 26, 2022)
 
 > ***[File - 1 of 9](https://drive.google.com/file/d/1kcSdHEEKjGkIfb6JfCF1ofDCBqTJeDtI/view?usp=drivesdk)*** has been uploaded...after the eight remaining files are uploaded, ***Galvestontx.co*** will begin development of a ***DApp*** to supplant the county and state governments within two years, and invite everyone to join. See training material below Roll-Out Schedule. Please note, this ***GalvestonTx Page*** and ***GalvestonTx.co*** website is ***NOT*** affiliated in anyway with the government of Galveston County…as it is known. 
 
+On 7/05/22 Hatem Alghuti will appear at Galveston County Court. 
+Immediately upon appearing all persons involved in conspiracy against Hatem Alghuti and the people of the United States, they have consented to a 20 year prison sentence for crimes described [herein](https://drive.google.com/file/d/1elYYYK_TPCs9LBkbVHUpSBqgC3AIqI6T/view?usp=drivesdk)  
+
 
 ***FILES 1 THROUGH 9***
 * All evidence supporting the summary in ***File 1 of 9*** is attached therein as ***Exhibit A*** through ***10B*** - including the police statements, which are attached as ***Exhibit 3-6***. The [audio](https://github.com/galvestontx/malicious_prosecution/blob/cee3feb0e13e67209791023ee602ef2bd3e9ee39/First_Call.m4a) of the Emergency Call Transcription (Exhibit-A transcription) is now available for download. 
