@@ -99,7 +99,7 @@ We now have individuals running the state that are convinced it is alright to in
 ## Roll-Out Schedule
 
 
-At the time of this writing, one strategic partnership has been established with a blockchain/ programming bootcamp instructor - to set up in-person or virtual workshops / camps to train the army of blockchain developers, Cloud Architects, and cyber warriors needed to build and secure our future. The training will be free of charge. Expect an announcement late May-June. 
+At the time of this writing, one strategic partnership has been established with a blockchain/ programming bootcamp instructor - to set up in-person or virtual workshops / camps to train the army of blockchain developers, Cloud Architects, and cyber warriors needed to build and secure our future. The training will be free of charge. 
 
 Training material will be uploaded for non locals visiting this page who wish to implement a branch/ chapter for their respective locality.
 ##
