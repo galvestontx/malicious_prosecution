@@ -8,7 +8,7 @@ Hatem T. Alghuti (April 26, 2022)
 ```
 ![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)
 
-
+Please note the fall out from the crimes committed against Hatem Alghuti by Galveston County is not [limited to Texas](https://github.com/Alghuti-Portfolio/Q-Block_401), and will not be resolved until every transgression against Hatem has been addressed, and damages paid in full along with immunity against any future prosecution. 
 
 ***Warning:*** please be advised foul language is used in these [statements](https://drive.google.com/file/d/1A6vn3HHm6z-dXNBUNmM8QrHjJHQ0nHx1/view?usp=drivesdk), which some may find offensive...myself included. I decided to make information public to prevent the same from happening to other's. So long as no one knows what is taking place at Galveston County and elsewhere, and the public rely solely on the falsified information published in court records, nothing will prevent these criminals from engaging in the same harmful activity.  
 
